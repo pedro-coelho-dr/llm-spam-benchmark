@@ -47,13 +47,6 @@ O script `src/preprocess.py` realiza a limpeza e estruturação do dataset origi
 
 ## Modelos Utilizados
 
-A seleção de modelos representa a evolução técnica dos LLMs da OpenAI em diferentes gerações.  
-A série **GPT-5** inclui variações de escala para medir impacto de capacidade no desempenho.  
-As linhas **GPT-4.1** e **GPT-4o** mostram a transição entre arquiteturas puramente textuais e multimodais, com versões *mini* para análise de eficiência.  
-O **o1-mini** foi incluído por seu foco em raciocínio estruturado, e o **davinci-002** serve como referência histórica da geração GPT-3.  
-O conjunto permite avaliar como diferentes arquiteturas e tamanhos afetam a precisão e consistência na classificação de mensagens.
-
-**Modelos testados:**
 - gpt-5  
 - gpt-5-mini  
 - gpt-5-nano  
@@ -61,9 +54,9 @@ O conjunto permite avaliar como diferentes arquiteturas e tamanhos afetam a prec
 - gpt-4.1-mini  
 - gpt-4o  
 - gpt-4o-mini  
+- gpt-3.5-turbo
   
 ## System Prompt
-
 
 Define a instrução fixa do modelo. O prompt especifica a tarefa de classificação e exige apenas o rótulo como saída:
 
@@ -75,7 +68,86 @@ Define a instrução fixa do modelo. O prompt especifica a tarefa de classifica�
 "Respond with only the label — 'ham' or 'spam' — without explanation or punctuation."
 ```
 
+## Criação dos Batches
+
+### `create_all_batches.py`
+Gera um arquivo `.jsonl` por modelo em `data/batches/`.  
+Cada linha contém uma requisição para a API no formato:
+
+```json
+{
+  "custom_id": "123",
+  "method": "POST",
+  "url": "/v1/chat/completions",
+  "body": {
+    "model": "gpt-4o",
+    "messages": [
+      {"role": "system", "content": "<SYSTEM_PROMPT>"},
+      {"role": "user", "content": "Free entry in 2 a weekly competition..."}
+    ]
+  }
+}
+```
+
+### `create_batch_input.py`
+Versão simplificada para gerar um único batch (modelo padrão `gpt-3.5-turbo`).
+
+Saída:  
+```
+data/batches/
+ ├── batch_input_gpt-5.jsonl
+ ├── batch_input_gpt-4o-mini.jsonl
+ └── ...
+```
+
+
+
+## Submissão dos Batches
+
+### `submit_batch_single.py`
+Envia um batch específico:
+1. Faz upload do arquivo `.jsonl` para a API.  
+2. Cria um job batch com tempo máximo de 24h.  
+3. Retorna o `batch_id` para monitoramento.
+
+### `run_all_batches.py`
+Itera sobre todos os arquivos em `data/batches/` e envia cada um sequencialmente.  
+Usa `extract_model_name()` para identificar o modelo pelo nome do arquivo.  
+Armazena logs e trata exceções de falha no envio.
+
+
+## Download e Parsing dos Resultados
+
+### `parse_batch_output.py`
+Após a conclusão de um batch:
+1. Faz download do arquivo de saída (`.jsonl`).  
+2. Lê cada linha, extrai `id` e `prediction`.  
+3. Gera `results/<model>/predictions.csv`.
+
+### `parse_multiple_batches.py`
+Processa vários `batch_id` listados em um arquivo texto.  
+Baixa, identifica o modelo e converte as respostas para CSV de forma automática.
+
+
+## Estrutura de Saída
+
+Após o processamento completo:
+
+```
+data/
+ ├── smsspam_shuffled.csv
+ └── batches/
+      ├── batch_input_gpt-4o.jsonl
+      ├── batch_input_gpt-4o-mini.jsonl
+      └── ...
+results/
+ ├── gpt-4o/
+ │    ├── batch_output.jsonl
+ │    └── predictions.csv
+ ├── gpt-5-mini/
+ │    ├── batch_output.jsonl
+ │    └── predictions.csv
+ └── ...
+```
+
 ## Resultados
-
-
-
