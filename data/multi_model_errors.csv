@@ -1,0 +1,510 @@
+id,label,text,prediction,n_models_error,models_with_error
+1,ham,"Go until jurong point, crazy.. Available only in bugis n great world la e buffet... Cine there got amore wat...",spam,3,"['gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-4o-mini']"
+8,ham,As per your request 'Melle Melle (Oru Minnaminunginte Nurungu Vettam)' has been set as your callertune for all Callers. Press *9 to copy your friends Callertune,spam,3,"['gpt-4.1-mini', 'gpt-5-nano', 'gpt-4o-mini']"
+17,ham,Oh k...i'm watching here:),,1,['gpt-5-mini']
+18,ham,Eh u remember how 2 spell his name... Yes i did. He v naughty make until i v wet.,spam,1,['gpt-3.5-turbo-0125']
+45,ham,Great! I hope you like your man well endowed. I am <#> inches...,spam,7,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+52,ham,"A gram usually runs like <#> , a half eighth is smarter though and gets you almost a whole second gram for <#>",spam,4,"['gpt-4.1-mini', 'gpt-5-nano', 'gpt-5-mini', 'gpt-4o-mini']"
+53,ham,K fyi x has a ride early tomorrow morning but he's crashing at our place tonight,,1,['gpt-5-mini']
+55,spam,SMS. ac Sptv: The New Jersey Devils and the Detroit Red Wings play Ice Hockey. Correct or Incorrect? End? Reply END SPTV,ham,3,"['gpt-4.1-mini', 'gpt-5-nano', 'gpt-5-mini']"
+56,ham,Do you know what Mallika Sherawat did yesterday? Find out now @ <URL>,spam,7,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+63,ham,Its a part of checking IQ,,1,['gpt-5-mini']
+67,ham,"Today is ""song dedicated day.."" Which song will u dedicate for me? Send this to all ur valuable frnds but first rply me...",spam,3,"['gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-4o-mini']"
+69,spam,"Did you hear about the new ""Divorce Barbie""? It comes with all of Ken's stuff!",ham,5,"['gpt-4.1-mini', 'gpt-5', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+102,ham,Okay name ur price as long as its legal! Wen can I pick them up? Y u ave x ams xx,spam,1,['gpt-5-nano']
+146,ham,Whats the staff name who is taking class for us?,,1,['gpt-5-mini']
+162,ham,I'm so in love with you. I'm excited each day i spend with you. You make me so happy.,,1,['gpt-5-mini']
+164,spam,"BangBabes Ur order is on the way. U SHOULD receive a Service Msg 2 download UR content. If U do not, GoTo wap. bangb. tv on UR mobile internet/service menu",,1,['gpt-5-mini']
+170,ham,"Sir, I need AXIS BANK account no and bank address.",spam,1,['gpt-4o-mini']
+179,ham,Hi! You just spoke to MANEESHA V. We'd like to know if you were satisfied with the experience. Reply Toll Free with Yes or No.,spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+200,ham,I sent you <#> bucks,spam,1,['gpt-4o-mini']
+202,ham,Your account has been refilled successfully by INR <DECIMAL> . Your KeralaCircle prepaid account balance is Rs <DECIMAL> . Your Transaction ID is KR <#> .,spam,1,['gpt-4.1-mini']
+207,ham,You please give us connection today itself before <DECIMAL> or refund the bill,spam,2,"['gpt-5-nano', 'gpt-4o-mini']"
+208,ham,Both :) i shoot big loads so get ready!,spam,4,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-4o-mini', 'gpt-4.1']"
+214,ham,Finally the match heading towards draw as your prediction.,,1,['gpt-5']
+225,ham,Hey company elama po mudyadhu.,spam,1,['gpt-4o-mini']
+227,ham,Dear good morning now only i am up,,1,['gpt-5-mini']
+266,ham,The evo. I just had to download flash. Jealous?,spam,1,['gpt-3.5-turbo-0125']
+268,ham,"Come to mu, we're sorting out our narcotics situation",spam,3,"['gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-4o-mini']"
+295,ham,Hurt me... Tease me... Make me cry... But in the end of my life when i die plz keep one rose on my grave and say STUPID I MISS U.. HAVE A NICE DAY BSLVYL,spam,1,['gpt-3.5-turbo-0125']
+308,ham,Today is ACCEPT DAY..U Accept me as? Brother Sister Lover Dear1 Best1 Clos1 Lvblefrnd Jstfrnd Cutefrnd Lifpartnr Belovd Swtheart Bstfrnd No rply means enemy,spam,4,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5', 'gpt-4o-mini']"
+329,spam,Call Germany for only 1 pence per minute! Call from a fixed line via access number 0844 861 85 85. No prepayment. Direct access!,,1,['gpt-5-mini']
+366,ham,I will spoil you in bed as well :),spam,1,['gpt-3.5-turbo-0125']
+368,ham,I cant keep talking to people if am not sure i can pay them if they agree to price. So pls tell me what you want to really buy and how much you are willing to pay,spam,1,['gpt-5-nano']
+392,ham,"You are always putting your business out there. You put pictures of your ass on facebook. You are one of the most open people i've ever met. Why would i think a picture of your room would hurt you, make you feel violated.",spam,1,['gpt-3.5-turbo-0125']
+404,ham,Message:some text missing* Sender:Name Missing* *Number Missing *Sent:Date missing *Missing U a lot thats y everything is missing sent via fullonsms.com,spam,3,"['gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-4o-mini']"
+419,ham,Send this to ur friends and receive something about ur voice..... How is my speaking expression? 1.childish 2.naughty 3.Sentiment 4.rowdy 5.ful of attitude 6.romantic 7.shy 8.Attractive 9.funny <#> .irritating <#> .lovable. reply me..,spam,6,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+424,ham,I wnt to buy a BMW car urgently..its vry urgent.but hv a shortage of <#> Lacs.there is no source to arng dis amt. <#> lacs..thats my prob,spam,1,['gpt-3.5-turbo-0125']
+446,ham,K:)k:)what are detail you want to transfer?acc no enough?,spam,1,['gpt-4o-mini']
+459,ham,great princess! I love giving and receiving oral. Doggy style is my fave position. How about you? I enjoy making love <#> times per night :),spam,4,"['gpt-3.5-turbo-0125', 'gpt-5', 'gpt-5-mini', 'gpt-4o-mini']"
+463,ham,There are many company. Tell me the language.,spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+466,ham,"Nothing. I meant that once the money enters your account here, the bank will remove its flat rate. Someone transfered <#> to my account and <#> dollars got removed. So the banks differ and charges also differ.be sure you trust the 9ja person you are sending account details to cos...",spam,1,['gpt-4o-mini']
+473,ham,When're you guys getting back? G said you were thinking about not staying for mcr,,1,['gpt-5']
+504,ham,Prabha..i'm soryda..realy..frm heart i'm sory,,1,['gpt-5-mini']
+510,spam,Your credits have been topped up for http://www.bubbletext.com Your renewal Pin is tgxxrz,ham,1,['gpt-5-mini']
+520,ham,Yes! How is a pretty lady like you single?,spam,1,['gpt-4o-mini']
+521,spam,You will recieve your tone within the next 24hrs. For Terms and conditions please see Channel U Teletext Pg 750,ham,1,['gpt-5-mini']
+522,ham,Jay says that you're a double-faggot,spam,1,['gpt-4o-mini']
+542,ham,"Imagine you finally get to sink into that bath after I have put you through your paces, maybe even having you eat me for a while before I left ... But also imagine the feel of that cage on your cock surrounded by the bath water, reminding you always who owns you ... Enjoy, my cuck",spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+543,ham,"Hurry up, I've been weed-deficient for like three days",,1,['gpt-5-mini']
+545,ham,Ok. Every night take a warm bath drink a cup of milk and you'll see a work of magic. You still need to loose weight. Just so that you know,spam,1,['gpt-3.5-turbo-0125']
+555,ham,"Fuck babe ... I miss you already, you know ? Can't you let me send you some money towards your net ? I need you ... I want you ... I crave you ...",spam,1,['gpt-3.5-turbo-0125']
+559,ham,Love it! Daddy will make you scream with pleasure! I am going to slap your ass with my dick!,spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+570,ham,"Arngd marriage is while u r walkin unfortuntly a snake bites u. bt love marriage is dancing in frnt of d snake & sayin Bite me, bite me.",spam,1,['gpt-4o-mini']
+602,ham,Its a valentine game. . . Send dis msg to all ur friends. .. If 5 answers r d same then someone really loves u. Ques- which colour suits me the best?rply me,spam,6,"['gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+611,ham,Dear we got <#> dollars hi hi,spam,2,"['gpt-5-nano', 'gpt-4o-mini']"
+613,ham,MAKE SURE ALEX KNOWS HIS BIRTHDAY IS OVER IN FIFTEEN MINUTES AS FAR AS YOU'RE CONCERNED,spam,1,['gpt-5-nano']
+645,ham,Tell them the drug dealer's getting impatient,spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+647,ham,"It doesnt make sense to take it there unless its free. If you need to know more, wikipedia.com",spam,1,['gpt-4o-mini']
+648,spam,88800 and 89034 are premium phone services call 08718711108,ham,1,['gpt-5-mini']
+653,ham,Yes baby! We can study all the positions of the kama sutra ;),spam,1,['gpt-3.5-turbo-0125']
+656,ham,This pay is <DECIMAL> lakhs:),spam,1,['gpt-4o-mini']
+657,ham,Have a good evening! Ttyl,,1,['gpt-5-mini']
+660,spam,"SMS. ac sun0819 posts HELLO:""You seem cool, wanted to say hi. HI!!!"" Stop? Send STOP to 62468",ham,1,['gpt-3.5-turbo-0125']
+670,ham,Ü log off 4 wat. It's sdryb8i,spam,1,['gpt-4o-mini']
+680,ham,"Sorry to trouble u again. Can buy 4d for my dad again? 1405, 1680, 1843. All 2 big 1 small, sat n sun. Thanx.",spam,1,['gpt-3.5-turbo-0125']
+689,ham,How much r ü willing to pay?,spam,1,['gpt-4o-mini']
+701,ham,"Save yourself the stress. If the person has a dorm account, just send your account details and the money will be sent to you.",spam,5,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5-mini', 'gpt-4o-mini']"
+707,ham,Macha dont feel upset.i can assume your mindset.believe me one evening with me and i have some wonderful plans for both of us.LET LIFE BEGIN AGAIN.call me anytime,spam,2,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125']"
+713,ham,Got it! It looks scrumptious... daddy wants to eat you all night long!,spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+731,ham,Ok. There may be a free gym about.,spam,1,['gpt-3.5-turbo-0125']
+732,ham,Men like shorter ladies. Gaze up into his eyes.,spam,1,['gpt-3.5-turbo-0125']
+738,spam,"Do you realize that in about 40 years, we'll have thousands of old ladies running around with tattoos?",ham,7,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+739,spam,You have an important customer service announcement from PREMIER.,ham,1,['gpt-5-nano']
+743,ham,So why didnt you holla?,,1,['gpt-5-mini']
+766,ham,Beerage?,spam,1,['gpt-4o-mini']
+776,ham,Omg I want to scream. I weighed myself and I lost more weight! Woohoo!,,1,['gpt-5-mini']
+781,ham,Ok i msg u b4 i leave my house.,,1,['gpt-5-mini']
+794,ham,So there's a ring that comes with the guys costumes. It's there so they can gift their future yowifes. Hint hint,spam,1,['gpt-5-nano']
+797,spam,"U were outbid by simonwatson5120 on the Shinco DVD Plyr. 2 bid again, visit sms. ac/smsrewards 2 end bid notifications, reply END OUT",ham,1,['gpt-5-mini']
+803,ham,Good afternoon starshine! How's my boytoy? Does he crave me yet? Ache to fuck me ? *sips cappuccino* I miss you babe *teasing kiss*,spam,1,['gpt-3.5-turbo-0125']
+816,ham,Surely result will offer:),spam,2,"['gpt-4o-mini', 'gpt-4.1']"
+832,ham,"I am real, baby! I want to bring out your inner tigress...",spam,3,"['gpt-3.5-turbo-0125', 'gpt-4o-mini', 'gpt-4.1']"
+833,ham,No da if you run that it activate the full version da.,spam,2,"['gpt-5-nano', 'gpt-4o-mini']"
+849,spam,Hello. We need some posh birds and chaps to user trial prods for champneys. Can i put you down? I need your address and dob asap. Ta r,ham,1,['gpt-5']
+863,ham,I love to give massages. I use lots of baby oil... What is your fave position?,spam,2,"['gpt-3.5-turbo-0125', 'gpt-5-mini']"
+864,ham,Dude we should go sup again,,1,['gpt-5-mini']
+866,ham,Gibbs unsold.mike hussey,spam,1,['gpt-4o-mini']
+873,ham,Nutter. Cutter. Ctter. Cttergg. Cttargg. Ctargg. Ctagg. ie you,spam,1,['gpt-4o-mini']
+888,ham,WHITE FUDGE OREOS ARE IN STORES,spam,5,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5-mini', 'gpt-4o-mini']"
+907,ham,K:)i will give my kvb acc details:),spam,3,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+920,ham,No we sell it all so we'll have tons if coins. Then sell our coins to someone thru paypal. Voila! Money back in life pockets:),spam,4,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-4o-mini']"
+935,ham,Sorry i now then c ur msg... Yar lor so poor thing... But only 4 one night... Tmr u'll have a brand new room 2 sleep in...,spam,1,['gpt-5-nano']
+943,ham,Or better still can you catch her and let ask her if she can sell <#> for me.,spam,1,['gpt-5-nano']
+951,ham,what is your account number?,spam,3,"['gpt-5-nano', 'gpt-5', 'gpt-4o-mini']"
+956,ham,Hey you can pay. With salary de. Only <#> .,spam,3,"['gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-4o-mini']"
+984,ham,"Poyyarikatur,kolathupalayam,unjalur post,erode dis, <#> .",spam,1,['gpt-4o-mini']
+993,ham,Shall i send that exe to your mail id.,spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+1026,ham,Do u noe wat time e place dat sells 4d closes?,spam,1,['gpt-4o-mini']
+1040,ham,No my mum went 2 dentist.,,1,['gpt-5-mini']
+1041,ham,Once free call me sir. I am waiting for you.,spam,1,['gpt-4o-mini']
+1051,ham,Where can download clear movies. Dvd copies.,spam,5,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-4o-mini', 'gpt-4.1']"
+1055,ham,You tell what happen dont behave like this to me. Ok no need to say,,1,['gpt-5-mini']
+1095,ham,Cancel cheyyamo?and get some money back?,spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+1117,ham,Babe ? I lost you ... :-(,,1,['gpt-5-mini']
+1163,spam,You have 1 new voicemail. Please call 08719181503,ham,2,"['gpt-4.1-mini', 'gpt-5-nano']"
+1175,ham,Also maaaan are you missing out,spam,1,['gpt-4o-mini']
+1183,spam,You have 1 new voicemail. Please call 08719181513.,ham,2,"['gpt-4.1-mini', 'gpt-5-nano']"
+1190,ham,Rofl betta invest in some anti aging products,spam,2,"['gpt-5-nano', 'gpt-4o-mini']"
+1196,ham,I want to send something that can sell fast. <#> k is not easy money.,spam,3,"['gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-4o-mini']"
+1210,ham,Hello which the site to download songs its urgent pls,spam,1,['gpt-3.5-turbo-0125']
+1222,ham,"We have sent JD for Customer Service cum Accounts Executive to ur mail id, For details contact us",spam,6,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5', 'gpt-4o-mini', 'gpt-4.1']"
+1228,ham,"Im in inperialmusic listening2the weirdest track ever byleafcutter john-sounds like insects being molested&someone plumbing,remixed by evil men on acid!",,1,['gpt-5-mini']
+1252,ham,"Hey...Great deal...Farm tour 9am to 5pm $95/pax, $50 deposit by 16 May",spam,7,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+1260,ham,"K so am I, how much for an 8th? Fifty?",spam,2,"['gpt-3.5-turbo-0125', 'gpt-5-nano']"
+1281,ham,"Just sent again. Do you scream and moan in bed, princess?",spam,4,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-mini', 'gpt-4o-mini']"
+1283,ham,Oh just getting even with u.... u?,,1,['gpt-5-mini']
+1313,ham,Let Ur Heart Be Ur Compass Ur Mind Ur Map Ur Soul Ur Guide And U Will Never loose in world....gnun - Sent via WAY2SMS.COM,spam,1,['gpt-4o-mini']
+1318,ham,If i start sending blackberry torch to nigeria will you find buyer for me?like 4a month. And tell dad not to buy bb from anyone oh.,spam,1,['gpt-3.5-turbo-0125']
+1319,ham,"<#> %of pple marry with their lovers... becz they hav gud undrstndng dat avoids problems. i sent dis 2 u, u wil get gud news on friday by d person you like. And tomorrow will be the best day of your life. Dont break this chain. If you break you will suffer. send this to <#> frnds in <#> mins whn u read...",spam,7,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+1332,ham,"1) Go to write msg 2) Put on Dictionary mode 3)Cover the screen with hand, 4)Press <#> . 5)Gently remove Ur hand.. Its interesting..:)",spam,1,['gpt-3.5-turbo-0125']
+1350,ham,"Haha just kidding, papa needs drugs",spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+1358,ham,You have registered Sinco as Payee. Log in at icicibank.com and enter URN <#> to confirm. Beware of frauds. Do NOT share or disclose URN to anyone.,spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+1361,ham,cool. We will have fun practicing making babies!,spam,1,['gpt-3.5-turbo-0125']
+1377,ham,No. She's currently in scotland for that.,,1,['gpt-5-mini']
+1385,spam,For sale - arsenal dartboard. Good condition but no doubles or trebles!,ham,4,"['gpt-4.1-mini', 'gpt-5', 'gpt-5-mini', 'gpt-4.1']"
+1401,ham,I am in a marriage function,,1,['gpt-5-mini']
+1407,ham,Ya! when are ü taking ure practical lessons? I start in june..,,1,['gpt-5-mini']
+1408,ham,"That's good, because I need drugs",spam,3,"['gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-4o-mini']"
+1414,spam,Bought one ringtone and now getting texts costing 3 pound offering more tones etc,ham,2,"['gpt-5', 'gpt-5-mini']"
+1419,ham,Wat makes u thk i'll fall down. But actually i thk i'm quite prone 2 falls. Lucky my dad at home i ask him come n fetch me already.,,1,['gpt-5-mini']
+1422,spam,Hi its LUCY Hubby at meetins all day Fri & I will B alone at hotel U fancy cumin over? Pls leave msg 2day 09099726395 Lucy x Calls£1/minMobsmoreLKPOBOX177HP51FL,ham,2,"['gpt-3.5-turbo-0125', 'gpt-5-nano']"
+1451,spam,"SMS. ac JSco: Energy is high, but u may not know where 2channel it. 2day ur leadership skills r strong. Psychic? Reply ANS w/question. End? Reply END JSCO",ham,1,['gpt-3.5-turbo-0125']
+1457,ham,Total video converter free download type this in google search:),spam,6,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+1458,spam,Thanks for the Vote. Now sing along with the stars with Karaoke on your mobile. For a FREE link just reply with SING now.,,1,['gpt-5-mini']
+1462,ham,Oops sorry. Just to check that you don't mind picking me up tomo at half eight from station. Would that be ok?,,1,['gpt-5-mini']
+1474,ham,Yup ok thanx...,,1,['gpt-5']
+1476,ham,Pls pls find out from aunt nike.,,1,['gpt-5-mini']
+1499,ham,"Me, i dont know again oh",,1,['gpt-5-mini']
+1506,ham,Ok i found dis pierre cardin one which looks normal costs 20 its on sale.,spam,1,['gpt-5-nano']
+1515,ham,Tmrw. Im finishing 9 doors,,1,['gpt-5-mini']
+1535,ham,There are no other charges after transfer charges and you can withdraw anyhow you like,spam,3,"['gpt-5-nano', 'gpt-5-mini', 'gpt-4o-mini']"
+1539,ham,"Somewhr someone is surely made 4 u. And God has decided a perfect time to make u meet dat person. . . . till den, . . . . . Enjoy ur crushes..!!!;-)",spam,2,"['gpt-3.5-turbo-0125', 'gpt-5-mini']"
+1560,ham,645,spam,1,['gpt-4o-mini']
+1565,ham,"K, makes sense, btw carlos is being difficult so you guys are gonna smoke while I go pick up the second batch and get gas",,1,['gpt-5-mini']
+1586,spam,"0A$NETWORKS allow companies to bill for SMS, so they are responsible for their ""suppliers"", just as a shop has to give a guarantee on what they sell. B. G.",ham,6,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5', 'gpt-5-mini', 'gpt-4.1']"
+1592,ham,U WILL SWITCH YOUR FONE ON DAMMIT!!,spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+1612,ham,Ü v ma fan...,spam,1,['gpt-4o-mini']
+1621,spam,Monthly password for wap. mobsi.com is 391784. Use your wap phone not PC.,ham,2,"['gpt-5', 'gpt-5-mini']"
+1631,ham,Do you want bold 2 or bb torch,spam,1,['gpt-4o-mini']
+1638,ham,Weightloss! No more girl friends. Make loads of money on ebay or something. And give thanks to God.,spam,5,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-4o-mini', 'gpt-4.1']"
+1650,ham,Yun ah.now ü wkg where?btw if ü go nus sc. Ü wana specialise in wad?,,1,['gpt-5-mini']
+1651,ham,Yes! I am a one woman man! Please tell me your likes and dislikes in bed...,spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+1663,ham,"As in missionary hook up, doggy hook up, standing...|",spam,3,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+1667,ham,"Hi Jon, Pete here, Ive bin 2 Spain recently & hav sum dinero left, Bill said u or ur rents mayb interested in it, I hav 12,000pes, so around £48, tb, James.",spam,2,"['gpt-3.5-turbo-0125', 'gpt-5-nano']"
+1672,ham,As per your request 'Maangalyam (Alaipayuthe)' has been set as your callertune for all Callers. Press *9 to copy your friends Callertune,spam,4,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-4o-mini']"
+1684,ham,I can do that! I want to please you both inside and outside the bedroom...,spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+1704,ham,"Got ur mail Dileep.thank you so muchand look forward to lots of support...very less contacts here,remember one venugopal you mentioned.tomorrow if not late,i shall try to come up till there.goodnight dear.",,1,['gpt-5-mini']
+1708,ham,Hi this is yijue... It's regarding the 3230 textbook it's intro to algorithms second edition... I'm selling it for $50...,spam,2,"['gpt-4.1-mini', 'gpt-4o-mini']"
+1724,ham,No dear i do have free messages without any recharge. Hi hi hi,spam,2,"['gpt-3.5-turbo-0125', 'gpt-5-nano']"
+1745,ham,God bless.get good sleep my dear...i will pray!,,1,['gpt-5-mini']
+1757,ham,Well i will watch shrek in 3D!!B),,1,['gpt-5-mini']
+1787,ham,You got job in wipro:)you will get every thing in life in 2 or 3 years.,spam,3,"['gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-4o-mini']"
+1794,ham,"Say this slowly.? GOD,I LOVE YOU & I NEED YOU,CLEAN MY HEART WITH YOUR BLOOD.Send this to Ten special people & u c miracle tomorrow, do it,pls,pls do it...",spam,7,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+1803,ham,Call to the number which is available in appointment. And ask to connect the call to waheed fathima.,,1,['gpt-5-mini']
+1805,ham,Mmmm ... Fuck ... Not fair ! You know my weaknesses ! *grins* *pushes you to your knee's* *exposes my belly and pulls your head to it* Don't forget ... I know yours too *wicked smile*,spam,1,['gpt-3.5-turbo-0125']
+1806,ham,Today my system sh get ready.all is well and i am also in the deep well,,1,['gpt-5-mini']
+1820,ham,I love your ass! Do you enjoy doggy style? :),spam,4,"['gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5-mini', 'gpt-4o-mini']"
+1835,ham,And miss vday the parachute and double coins??? U must not know me very well...,spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+1858,ham,Ok,i need a text input to classify it as 'ham' or 'spam'.,1,['gpt-3.5-turbo-0125']
+1862,spam,Call from 08702490080 - tells u 2 call 09066358152 to claim £5000 prize. U have 2 enter all ur mobile & personal details @ the prompts. Careful!,ham,2,"['gpt-5', 'gpt-5-mini']"
+1872,ham,Excellent! Are you ready to moan and scream in ecstasy?,spam,5,"['gpt-3.5-turbo-0125', 'gpt-5', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+1886,ham,Then just eat a shit and wait for ur monkey face bitch.......... U asshole..................,spam,1,['gpt-3.5-turbo-0125']
+1891,ham,Howz that persons story,,1,['gpt-5-mini']
+1904,ham,Thats cool. Where should i cum? On you or in you? :),spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+1933,ham,See the forwarding message for proof,spam,1,['gpt-4o-mini']
+1941,ham,"Princess, is your kitty shaved or natural?",spam,1,['gpt-4.1']
+1957,ham,"Yes, i'm small kid.. And boost is the secret of my energy..",spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+1979,ham,"Sir, I am waiting for your mail.",,1,['gpt-5-mini']
+1980,ham,.Please charge my mobile when you get up in morning.,,1,['gpt-5-mini']
+1988,ham,Pass dis to all ur contacts n see wat u get! Red;i'm in luv wid u. Blue;u put a smile on my face. Purple;u r realy hot. Pink;u r so swt. Orange;i thnk i lyk u. Green;i realy wana go out wid u. Yelow;i wnt u bck. Black;i'm jealous of u. Brown;i miss you Nw plz giv me one color,spam,6,"['gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+1991,ham,Who's there say hi to our drugdealer,spam,3,"['gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-4o-mini']"
+2006,ham,"you are sweet as well, princess. Please tell me your likes and dislikes in bed...",spam,1,['gpt-3.5-turbo-0125']
+2017,ham,"Probably, want to pick up more?",spam,2,"['gpt-5-nano', 'gpt-4o-mini']"
+2035,spam,"Sunshine Hols. To claim ur med holiday send a stamped self address envelope to Drinks on Us UK, PO Box 113, Bray, Wicklow, Eire. Quiz Starts Saturday! Unsub Stop",,1,['gpt-5-mini']
+2087,ham,Yavnt tried yet and never played original either,,1,['gpt-5-mini']
+2090,ham,get ready to moan and scream :),spam,2,"['gpt-4o-mini', 'gpt-4.1']"
+2098,ham,I know a few people I can hit up and fuck to the yes,spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+2109,ham,"V-aluable. A-ffectionate. L-oveable. E-ternal. N-oble. T-ruthful. I-ntimate. N-atural. E-namous. Happy ""VALENTINES DAY"" in advance",spam,1,['gpt-4o-mini']
+2117,ham,soon you will have the real thing princess! Do i make you wet? :),spam,3,"['gpt-3.5-turbo-0125', 'gpt-5-mini', 'gpt-4o-mini']"
+2131,ham,Nice talking to you! please dont forget my pix :) i want to see all of you...,spam,1,['gpt-3.5-turbo-0125']
+2140,ham,Oh k.k..where did you take test?,,1,['gpt-5-mini']
+2158,spam,"Hi ya babe x u 4goten bout me?' scammers getting smart..Though this is a regular vodafone no, if you respond you get further prem rate msg/subscription. Other nos used also. Beware!",ham,5,"['gpt-4.1-mini', 'gpt-5-nano', 'gpt-5', 'gpt-5-mini', 'gpt-4.1']"
+2160,ham,will you like to be spoiled? :),spam,1,['gpt-3.5-turbo-0125']
+2161,spam,"Thanks for your ringtone order, ref number R836. Your mobile will be charged £4.50. Should your tone not arrive please call customer services on 09065069154",ham,1,['gpt-5-mini']
+2169,ham,Here got lots of hair dresser fr china.,spam,3,"['gpt-4.1-mini', 'gpt-5-nano', 'gpt-4o-mini']"
+2178,spam,88066 FROM 88066 LOST 3POUND HELP,ham,1,['gpt-5-mini']
+2187,ham,Hmm...Bad news...Hype park plaza $700 studio taken...Only left 2 bedrm-$900...,spam,2,"['gpt-4.1-mini', 'gpt-4o-mini']"
+2197,ham,Dont you have message offer,spam,4,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-4o-mini', 'gpt-4.1']"
+2210,ham,We can make a baby in yo tho,spam,1,['gpt-3.5-turbo-0125']
+2222,ham,That's cause your old. I live to be high.,spam,1,['gpt-4o-mini']
+2227,ham,Should I be stalking u?,spam,1,['gpt-3.5-turbo-0125']
+2229,ham,Ok lor.,,1,['gpt-5-mini']
+2233,ham,Am surfing online store. For offers do you want to buy any thing.,spam,5,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5-mini', 'gpt-4o-mini']"
+2241,ham,Tell your friends what you plan to do on Valentines day @ <URL>,spam,7,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+2248,ham,Its posible dnt live in <#> century cm frwd n thnk different,spam,1,['gpt-4o-mini']
+2269,ham,"A Boy loved a gal. He propsd bt she didnt mind. He gv lv lttrs, Bt her frnds threw thm. Again d boy decided 2 aproach d gal , dt time a truck was speeding towards d gal. Wn it was about 2 hit d girl,d boy ran like hell n saved her. She asked 'hw cn u run so fast?' D boy replied ""Boost is d secret of my energy"" n instantly d girl shouted ""our energy"" n Thy lived happily 2gthr drinking boost evrydy Moral of d story:- I hv free msgs:D;): gud ni8",spam,3,"['gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-4o-mini']"
+2278,ham,"Hi, Mobile no. <#> has added you in their contact list on www.fullonsms.com It s a great place to send free sms to people For more visit fullonsms.com",spam,7,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+2283,ham,Your pussy is perfect!,spam,3,"['gpt-3.5-turbo-0125', 'gpt-5-mini', 'gpt-4o-mini']"
+2287,ham,"wiskey Brandy Rum Gin Beer Vodka Scotch Shampain Wine ""KUDI""yarasu dhina vaazhthukkal. ..",spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+2290,ham,PICK UR FONE UP NOW U DUMB?,spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+2302,ham,Jesus christ bitch I'm trying to give you drugs answer your fucking phone,spam,1,['gpt-4o-mini']
+2306,ham,"Solve d Case : A Man Was Found Murdered On <DECIMAL> . <#> AfterNoon. 1,His wife called Police. 2,Police questioned everyone. 3,Wife: Sir,I was sleeping, when the murder took place. 4.Cook: I was cooking. 5.Gardener: I was picking vegetables. 6.House-Maid: I went 2 d post office. 7.Children: We went 2 play. 8.Neighbour: We went 2 a marriage. Police arrested d murderer Immediately. Who's It? Reply With Reason, If U r Brilliant.",spam,2,"['gpt-3.5-turbo-0125', 'gpt-4.1']"
+2311,ham,Lol please do. Actually send a pic of yourself right now. I wanna see. Pose with a comb and hair dryer or something.,spam,1,['gpt-3.5-turbo-0125']
+2316,ham,"Madam,regret disturbance.might receive a reference check from DLF Premarica.kindly be informed.Rgds,Rakhesh,Kerala.",,1,['gpt-5-mini']
+2327,spam,Guess who am I?This is the first time I created a web page WWW.ASJESUS.COM read all I wrote. I'm waiting for your opinions. I want to be your friend 1/1,ham,2,"['gpt-4.1-mini', 'gpt-5-mini']"
+2331,ham,"Indians r poor but India is not a poor country. Says one of the swiss bank directors. He says that "" <#> lac crore"" of Indian money is deposited in swiss banks which can be used for 'taxless' budget for <#> yrs. Can give <#> crore jobs to all Indians. From any village to Delhi 4 lane roads. Forever free power suply to more than <#> social projects. Every citizen can get monthly <#> /- for <#> yrs. No need of World Bank & IMF loan. Think how our money is blocked by rich politicians. We have full rights against corrupt politicians. Itna forward karo ki pura INDIA padhe.g.m.""",spam,5,"['gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5', 'gpt-5-mini', 'gpt-4o-mini']"
+2342,ham,"Yes but i dont care! I need you bad, princess!",spam,1,['gpt-3.5-turbo-0125']
+2363,ham,He is world famamus....,spam,1,['gpt-4o-mini']
+2365,ham,Lol well don't do it without me. We could have a big sale together.,spam,1,['gpt-3.5-turbo-0125']
+2370,ham,"Princess, i like to make love <#> times per night. Hope thats not a problem!",spam,1,['gpt-3.5-turbo-0125']
+2391,ham,HCL chennai requires FRESHERS for voice process.Excellent english needed.Salary upto <#> .Call Ms.Suman <#> for Telephonic interview -via Indyarocks.com,spam,7,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+2397,ham,"Ola would get back to you maybe not today but I ve told him you can be his direct link in the US in getting cars he bids for online, you arrange shipping and you get a cut. Or U????? For a partnership where U????? Invest money for shipping and he takes care of the rest!U??Wud b self reliant soon dnt worry",spam,5,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5-mini', 'gpt-4o-mini']"
+2427,ham,The monthly amount is not that terrible and you will not pay anything till 6months after finishing school.,spam,1,['gpt-5-nano']
+2433,ham,"She is our sister.. She belongs 2 our family.. She is d hope of tomorrow.. Pray 4 her,who was fated 4 d Shoranur train incident. Lets hold our hands together & fuelled by love & concern prior 2 her grief & pain. Pls join in dis chain & pass it. STOP VIOLENCE AGAINST WOMEN.",spam,2,"['gpt-5-nano', 'gpt-5']"
+2434,ham,So are you guys asking that i get that slippers again or its gone with last year,,1,['gpt-5-mini']
+2439,ham,Please sen :)my kind advice :-)please come here and try:-),spam,1,['gpt-5-nano']
+2440,ham,I'm done. C ü there.,,1,['gpt-5-mini']
+2447,ham,"Some friends want me to drive em someplace, probably take a while",,1,['gpt-5-mini']
+2479,ham,"My friend just got here and says he's upping his order by a few grams (he's got $ <#> ), when can you get here?",spam,2,"['gpt-5-nano', 'gpt-4o-mini']"
+2492,ham,R U &SAM P IN EACHOTHER. IF WE MEET WE CAN GO 2 MY HOUSE,spam,1,['gpt-4o-mini']
+2502,ham,Hey pple...$700 or $900 for 5 nights...Excellent location wif breakfast hamper!!!,spam,6,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+2508,ham,S da..al r above <#>,spam,1,['gpt-4o-mini']
+2530,ham,"Hi, can i please get a <#> dollar loan from you. I.ll pay you back by mid february. Pls.",spam,3,"['gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-4o-mini']"
+2532,ham,Do you like shaking your booty on the dance floor?,spam,1,['gpt-3.5-turbo-0125']
+2543,spam,"Hello darling how are you today? I would love to have a chat, why dont you tell me what you look like and what you are in to sexy?",ham,3,"['gpt-4.1-mini', 'gpt-5-nano', 'gpt-5']"
+2546,ham,R u meeting da ge at nite tmr?,,1,['gpt-5-mini']
+2548,ham,Why de. You looking good only:-)..,,1,['gpt-5-mini']
+2556,ham,I'm sick !! I'm needy !! I want you !! *pouts* *stomps feet* Where are you ?! *pouts* *stomps feet* I want my slave !! I want him now !!,spam,1,['gpt-3.5-turbo-0125']
+2576,ham,Can you use foreign stamps for whatever you send them off for?,,1,['gpt-5-mini']
+2577,spam,FROM 88066 LOST £12 HELP,ham,2,"['gpt-5', 'gpt-5-mini']"
+2579,ham,"Feb <#> is ""I LOVE U"" day. Send dis to all ur ""VALUED FRNDS"" evn me. If 3 comes back u'll gt married d person u luv! If u ignore dis u will lose ur luv 4 Evr",spam,7,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+2590,ham,Hey you still want to go for yogasana? Coz if we end at cine then can go bathe and hav the steam bath,,1,['gpt-5-mini']
+2593,ham,Cool. I am <#> inches long. hope you like them big!,spam,3,"['gpt-3.5-turbo-0125', 'gpt-4o-mini', 'gpt-4.1']"
+2634,ham,"Open rebtel with firefox. When it loads just put plus sign in the user name place, and it will show you two numbers. The lower number is my number. Once you pick that number the pin will display okay!",spam,3,"['gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-4o-mini']"
+2643,spam,How come it takes so little time for a child who is afraid of the dark to become a teenager who wants to stay out all night?,ham,7,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+2646,ham,Send me your id and password,spam,7,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+2655,ham,Yeah get the unlimited,spam,3,"['gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-4o-mini']"
+2658,ham,Ü got wat to buy tell us then ü no need to come in again.,spam,1,['gpt-3.5-turbo-0125']
+2659,ham,When you are big..| God will bring success.,spam,1,['gpt-4o-mini']
+2662,ham,Well there's still a bit left if you guys want to tonight,,1,['gpt-5']
+2675,ham,Yes princess! I want to catch you with my big strong hands...,spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+2681,ham,Some are lasting as much as 2 hours. You might get lucky.,spam,1,['gpt-5-nano']
+2688,spam,ROMCAPspam Everyone around should be responding well to your presence since you are so warm and outgoing. You are bringing in a real breath of sunshine.,ham,6,"['gpt-4.1-mini', 'gpt-5-nano', 'gpt-5', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+2695,ham,Its normally hot mail. Com you see!,spam,1,['gpt-4o-mini']
+2706,ham,Today iZ Yellow rose day. If u love my frndship give me 1 misscall & send this to ur frndZ & See how many miss calls u get. If u get 6missed U marry ur Lover.,spam,6,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+2729,ham,I actually did for the first time in a while. I went to bed not too long after i spoke with you. Woke up at 7. How was your night?,,1,['gpt-5-mini']
+2749,ham,Babe? You said 2 hours and it's been almost 4 ... Is your internet down ?,,1,['gpt-5-mini']
+2760,ham,HI DARLIN I HOPE YOU HAD A NICE NIGHT I WISH I HAD COME CANT WAIT TO SEE YOU LOVE FRAN PS I WANT DIRTY ANAL SEX AND I WANT A 10 MAN GANG BANG,spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+2762,ham,"Helloooo... Wake up..! ""Sweet"" ""morning"" ""welcomes"" ""You"" ""Enjoy"" ""This Day"" ""with full of joy"".. ""GUD MRNG"".",spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+2769,spam,Sorry! U can not unsubscribe yet. THE MOB offer package has a min term of 54 weeks> pls resubmit request after expiry. Reply THEMOB HELP 4 more info,ham,1,['gpt-5-mini']
+2786,ham,Hi' Test on <#> rd ....,spam,1,['gpt-4o-mini']
+2787,ham,Only 2% students solved this CAT question in 'xam... 5+3+2= <#> 9+2+4= <#> 8+6+3= <#> then 7+2+5=????? Tell me the answer if u r brilliant...1thing.i got d answr.,spam,1,['gpt-3.5-turbo-0125']
+2788,ham,Yo do you know anyone <#> or otherwise able to buy liquor? Our guy flaked and right now if we don't get a hold of somebody its just 4 loko all night,spam,1,['gpt-3.5-turbo-0125']
+2812,ham,Buzzzz! *grins* Did I buzz your ass? Buzz your chest ? Buzz your cock ? Where do you keep your phone ? Is the vibrator on ? Did you feel it shake ?,spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+2815,ham,"""NONE!NOWHERE IKNO DOESDISCOUNT!SHITINNIT""",spam,4,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-4o-mini', 'gpt-4.1']"
+2817,spam,"Do you ever notice that when you're driving, anyone going slower than you is an idiot and everyone driving faster than you is a maniac?",ham,7,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+2823,ham,Sary just need Tim in the bollox &it hurt him a lot so he tol me!,spam,1,['gpt-3.5-turbo-0125']
+2830,spam,"Xmas Offer! Latest Motorola, SonyEricsson & Nokia & FREE Bluetooth or DVD! Double Mins & 1000 Txt on Orange. Call MobileUpd8 on 08000839402 or call2optout/4QF2",,1,['gpt-5-mini']
+2834,ham,"He said that he had a right giggle when he saw u again! You would possibly be the first person2die from NVQ, but think how much you could for!",spam,1,['gpt-4o-mini']
+2844,ham,They released vday shirts and when u put it on it makes your bottom half naked instead of those white underwear.,spam,2,"['gpt-5-nano', 'gpt-4o-mini']"
+2855,ham,Imagine Life WITHOUT ME... see.. How fast u are searching me?Don't worry.. l'm always there To disturb U.. Goodnoon..:),spam,1,['gpt-3.5-turbo-0125']
+2861,ham,"<#> is fast approaching. So, Wish u a very Happy New Year Happy Sankranti Happy republic day Happy Valentines Day Happy Shivratri Happy Ugadi Happy Fools day Happy May Day Happy Independence Day, Happy Friendship,Mother,Father,Teachers,Childrens Day, & HAPPY BIRTHDAY 4 U. Happy Ganesh festival Happy Dasara Happy Diwali Happy Christmas <#> Good Mornings Afternoons, Evenings Nights. RememberI AM the first to WISHING U ALL THESE...your's Raj",spam,5,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5', 'gpt-5-mini', 'gpt-4o-mini']"
+2874,ham,What is your record for one night? :),,1,['gpt-5-mini']
+2879,ham,Get ready for <#> inches of pleasure...,spam,7,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+2888,ham,"Hello, yeah i've just got out of the bath and need to do my hair so i'll come up when i'm done, yeah?",,1,['gpt-5-mini']
+2914,ham,Somebody should go to andros and steal ice,spam,2,"['gpt-5-nano', 'gpt-4o-mini']"
+2930,ham,Am going to take bath ill place the key in window:-),,1,['gpt-5-mini']
+2933,ham,staff.science.nus.edu.sg/~phyhcmk/teaching/pc1323,spam,1,['gpt-3.5-turbo-0125']
+2952,ham,"Wat time liao, where still got.",,1,['gpt-5']
+2964,ham,Thats cool. i liked your photos. You are very sexy!,spam,1,['gpt-3.5-turbo-0125']
+2976,spam,sexy sexy cum and text me im wet and warm and ready for some porn! u up for some fun? THIS MSG IS FREE RECD MSGS 150P INC VAT 2 CANCEL TEXT STOP,,1,['gpt-5']
+3008,ham,Does cinema plus drink appeal tomo? * Is a fr thriller by director i like on at mac at 8.30.,,1,['gpt-5-mini']
+3009,ham,There the size of elephant tablets & u shove um up ur ass!!,spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+3011,ham,"My Parents, My Kidz, My Friends n My Colleagues. All screaming.. SURPRISE !! and I was waiting on the sofa.. ... ..... ' NAKED...!",spam,1,['gpt-3.5-turbo-0125']
+3021,ham,I will lick up every drop :) are you ready to use your mouth as well?,spam,1,['gpt-3.5-turbo-0125']
+3040,ham,What's ur pin?,spam,3,"['gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-4o-mini']"
+3053,ham,"Rose for red,red for blood,blood for heart,heart for u. But u for me.... Send tis to all ur friends.. Including me.. If u like me.. If u get back, 1-u r poor in relation! 2-u need some 1 to support 3-u r frnd 2 many 4-some1 luvs u 5+- some1 is praying god to marry u.:-) try it....",spam,5,"['gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5', 'gpt-4o-mini', 'gpt-4.1']"
+3065,ham,"A cute thought for friendship: ""Its not necessary to share every secret with ur close Frnd, but watever u shared should be true""....",,1,['gpt-5-mini']
+3067,ham,Pls accept me for one day. Or am begging you change the number.,spam,1,['gpt-3.5-turbo-0125']
+3068,ham,Squeeeeeze!! This is christmas hug.. If u lik my frndshp den hug me back.. If u get 3 u r cute:) 6 u r luvd:* 9 u r so lucky;) None? People hate u:,spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+3087,ham,I will send them to your email. Do you mind <#> times per night?,spam,1,['gpt-5-nano']
+3092,ham,Raviyog Peripherals bhayandar east,spam,1,['gpt-4o-mini']
+3121,spam,RCT' THNQ Adrian for U text. Rgds Vatian,ham,7,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+3125,ham,Ee msg na poortiyagi odalebeku: Hanumanji 7 name 1-Hanuman 2-Bajarangabali 3-Maruti 4-Pavanaputra 5-Sankatmochan 6-Ramaduth 7-Mahaveer ee 7 name <#> janarige ivatte kalisidare next saturday olage ondu good news keluviri...! Maretare inde 1 dodda problum nalli siguviri idu matra <#> % true.. Don't neglet.,spam,7,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+3170,ham,R u sure they'll understand that! Wine * good idea just had a slurp!,,1,['gpt-5-mini']
+3174,spam,Sorry I missed your call let's talk when you have the time. I'm on 07090201529,ham,7,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+3188,ham,Also andros ice etc etc,,2,"['gpt-5-mini', 'gpt-4o-mini']"
+3190,ham,"Good afternon, my love. How are today? I hope your good and maybe have some interviews. I wake and miss you babe. A passionate kiss from across the sea",,1,['gpt-5']
+3199,ham,Ok can...,,1,['gpt-5-mini']
+3219,ham,Joy's father is John. Then John is the ____ of Joy's father. If u ans ths you hav <#> IQ. Tis s IAS question try to answer.,spam,1,['gpt-4o-mini']
+3226,spam,LIFE has never been this much fun and great until you came in. You made it truly special for me. I won't forget you! enjoy @ one gbp/sms,ham,3,"['gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5-mini']"
+3228,spam,"As a valued customer, I am pleased to advise you that following recent review of your Mob No. you are awarded with a £1500 Bonus Prize, call 09066368470",,1,['gpt-5-mini']
+3229,spam,Welcome! Please reply with your AGE and GENDER to begin. e.g 24M,ham,3,"['gpt-5', 'gpt-5-mini', 'gpt-4.1']"
+3243,ham,"""Hi darlin i cantdo anythingtomorrow as myparents aretaking me outfor a meal. when are u free? Katexxx""",,1,['gpt-5-mini']
+3260,ham,"Nowadays people are notixiquating the laxinorficated opportunity for bambling of entropication.... Have you ever oblisingately opted ur books for the masteriastering amplikater of fidalfication? It is very champlaxigating, i think it is atrocious.. Wotz Ur Opinion???? Junna",spam,1,['gpt-3.5-turbo-0125']
+3268,ham,i am seeking a lady in the street and a freak in the sheets. Is that you?,spam,5,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+3284,spam,Do you want a NEW video phone750 anytime any network mins 150 text for only five pounds per week call 08000776320 now or reply for delivery tomorrow,,1,['gpt-5-mini']
+3300,ham,says the <#> year old with a man and money. I'm down to my last <#> . Still waiting for that check.,spam,1,['gpt-5-nano']
+3310,ham,I'm serious. You are in the money base,spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+3313,ham,I always chat with you. In fact i need money can you raise me?,spam,1,['gpt-3.5-turbo-0125']
+3322,ham,Try neva mate!!,spam,1,['gpt-3.5-turbo-0125']
+3326,ham,Should i send you naughty pix? :),spam,3,"['gpt-3.5-turbo-0125', 'gpt-5-mini', 'gpt-4o-mini']"
+3330,ham,Prepare to be pounded every night...,spam,4,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-mini', 'gpt-4o-mini']"
+3331,ham,"Actually, my mobile is full of msg. And i m doing a work online, where i need to send them <#> sent msg i wil explain u later.",spam,1,['gpt-3.5-turbo-0125']
+3336,ham,We are pleased to inform that your application for Airtel Broadband is processed successfully. Your installation will happen within 3 days.,spam,2,"['gpt-4.1-mini', 'gpt-4o-mini']"
+3340,ham,Ü come lt 25 n pass to me lar,spam,1,['gpt-4o-mini']
+3341,ham,I'm e person who's doing e sms survey...,spam,1,['gpt-4o-mini']
+3346,ham,"I got like $ <#> , I can get some more later though. Get whatever you feel like",spam,1,['gpt-5-nano']
+3355,ham,No da. . Vijay going to talk in jaya tv,,1,['gpt-5-mini']
+3357,ham,Lol I know! Hey someone did a great inpersonation of flea on the forums. I love it!,,1,['gpt-5-mini']
+3386,ham,How much would it cost to hire a hitman,spam,4,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-4o-mini']"
+3398,ham,Hey morning what you come to ask:-) pa...,,1,['gpt-5']
+3413,ham,I meant as an apology from me for texting you to get me drugs at <#> at night,spam,1,['gpt-4o-mini']
+3421,ham,Thank you princess! You are so sexy...,spam,1,['gpt-4o-mini']
+3428,spam,"Customer service announcement. We recently tried to make a delivery to you but were unable to do so, please call 07090298926 to re-schedule. Ref:9307622",ham,1,['gpt-5-nano']
+3438,ham,Hmm ill have to think about it... ok you're forgiven! =D,,1,['gpt-5-mini']
+3444,ham,Senthil group company Apnt 5pm.,spam,1,['gpt-3.5-turbo-0125']
+3456,ham,"Honey ? Sweetheart ? Darling ? Sexy buns ? Sugar plum ? Loverboy ? I miss you, boytoy ... *smacks your ass* Did you go to the gym too ?",spam,1,['gpt-3.5-turbo-0125']
+3458,ham,Yeah imma come over cause jay wants to do some drugs,spam,1,['gpt-3.5-turbo-0125']
+3473,ham,Great! I shoot big loads so get ready!,spam,3,"['gpt-3.5-turbo-0125', 'gpt-4o-mini', 'gpt-4.1']"
+3480,ham,"Hello, As per request from <#> Rs.5 has been transfered to you",spam,1,['gpt-5-nano']
+3487,ham,Hey loverboy! I love you !! I had to tell ... I look at your picture and ache to feel you between my legs ... Fuck I want you ... I need you ... I crave you .,spam,1,['gpt-3.5-turbo-0125']
+3490,ham,Ok. Very good. Its all about making that money.,spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+3492,ham,Aight do you still want to get money,spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+3501,ham,Cool. Do you like swimming? I have a pool and jacuzzi at my house.,,1,['gpt-5-mini']
+3513,ham,"Isn't frnd a necesity in life? imagine urself witout a frnd.. hw'd u feel at ur colleg? wat'll u do wth ur cell? wat abt functions? thnk abt events espe'll cared, missed & irritated u? 4wrd it to all those dear-loving frnds wthout whom u cant live.. I jst did it.. Takecare..:) GOODMORNING",spam,1,['gpt-3.5-turbo-0125']
+3518,ham,"Plz note: if anyone calling from a mobile Co. & asks u to type # <#> or # <#> . Do not do so. Disconnect the call,coz it iz an attempt of 'terrorist' to make use of the sim card no. Itz confirmd by nokia n motorola n has been verified by CNN IBN.",spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+3521,spam,2/2 146tf150p,ham,3,"['gpt-5-nano', 'gpt-5-mini', 'gpt-4.1']"
+3555,ham,"Dear friends, sorry for the late information. Today is the birthday of our loving Ar.Praveesh. for more details log on to face book and see. Its his number + <#> . Dont miss a delicious treat.",spam,1,['gpt-4o-mini']
+3560,ham,WHORE YOU ARE UNBELIEVABLE.,spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+3562,ham,"Are you sure you don't mean ""get here, we made you hold all the weed""",spam,1,['gpt-4o-mini']
+3565,ham,Love it! I want to flood that pretty pussy with cum...,spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+3568,ham,Also remember the beads don't come off. Ever.,,1,['gpt-5-mini']
+3569,ham,They have a thread on the wishlist section of the forums where ppl post nitro requests. Start from the last page and collect from the bottom up.,spam,1,['gpt-5-nano']
+3570,ham,For The First Time In The History 'Need' 'Comfort' And 'Luxury' Are Sold At Same Price In India..!! Onion-Rs. <#> Petrol-Rs. <#> Beer-Rs. <#> SHESIL <#>,spam,6,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+3576,ham,"No dude, its not fake..my frnds got money, thts y i'm reffering u..if u member wit my mail link, u vl be credited <#> rs and il be getiing <#> rs..i can draw my acc wen it is <#> rs..",spam,7,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+3595,ham,"Please protect yourself from e-threats. SIB never asks for sensitive information like Passwords,ATM/SMS PIN thru email. Never share your password with anybody.",spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+3597,ham,Hi. I'm always online on yahoo and would like to chat with you someday,spam,1,['gpt-3.5-turbo-0125']
+3603,ham,Let's pool our money together and buy a bunch of lotto tickets. If we win I get <#> % u get <#> %. Deal?,spam,3,"['gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-4o-mini']"
+3607,ham,Early bird! Any purchases yet?,spam,3,"['gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-4o-mini']"
+3617,ham,Can you plz tell me the ans. BSLVYL sent via fullonsms.com,spam,3,"['gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-4o-mini']"
+3632,spam,"Oh my god! I've found your number again! I'm so glad, text me back xafter this msgs cst std ntwk chg £1.50",ham,1,['gpt-5-mini']
+3650,ham,"Gumby's has a special where a <#> "" cheese pizza is $2 so I know what we're doin tonight",spam,3,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+3654,ham,Cab is available.they pick up and drop at door steps.,spam,5,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5-mini', 'gpt-4o-mini']"
+3656,ham,Unlimited texts. Limited minutes.,spam,5,"['gpt-4.1-mini', 'gpt-5-nano', 'gpt-5', 'gpt-5-mini', 'gpt-4o-mini']"
+3688,ham,I havent add ü yet right..,,1,['gpt-5-mini']
+3694,ham,Sos! Any amount i can get pls.,spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+3695,ham,"Playin space poker, u?",,1,['gpt-5-mini']
+3698,ham,They r giving a second chance to rahul dengra.,spam,1,['gpt-3.5-turbo-0125']
+3700,ham,WHEN THE FIRST STRIKE IS A RED ONE. THE BIRD + ANTELOPE BEGIN TOPLAY IN THE FIELDOF SELFINDEPENDENCE BELIEVE THIS + THE FLOWER OF CONTENTION WILL GROW.RANDOM!,spam,1,['gpt-4o-mini']
+3704,ham,She's borderline but yeah whatever.,,1,['gpt-5-mini']
+3706,ham,I will be gentle princess! We will make sweet gentle love...,spam,1,['gpt-3.5-turbo-0125']
+3735,ham,do u think that any girl will propose u today by seing ur bloody funky shit fucking face...............asssssholeeee................,spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+3753,ham,We'll you pay over like <#> yrs so its not too difficult,spam,1,['gpt-5-nano']
+3754,spam,Bored housewives! Chat n date now! 0871750.77.11! BT-national rate 10p/min only from landlines!,,1,['gpt-5-mini']
+3780,ham,"Yes, princess. Are you going to make me moan?",spam,1,['gpt-3.5-turbo-0125']
+3786,ham,I am taking you for italian food. How about a pretty dress with no panties? :),spam,1,['gpt-3.5-turbo-0125']
+3793,ham,What time do u get out?,,1,['gpt-5-mini']
+3817,ham,Fyi I'm gonna call you sporadically starting at like <#> bc we are not not doin this shit,,1,['gpt-5-mini']
+3819,spam,TBS/PERSOLVO. been chasing us since Sept for£38 definitely not paying now thanks to your information. We will ignore them. Kath. Manchester.,ham,7,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+3856,ham,I want to lick your pussy now...,spam,4,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-mini', 'gpt-4o-mini']"
+3868,ham,Doc prescribed me morphine cause the other pain meds aren't enough. Waiting for my mom to bring it. That med should kick in fast so I'm gonna try to be on later,,1,['gpt-5-mini']
+3878,ham,Is it your yahoo boys that bring in the perf? Or legal.,spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+3886,spam,"In The Simpsons Movie released in July 2007 name the band that died at the start of the film? A-Green Day, B-Blue Day, C-Red Day. (Send A, B or C)",ham,4,"['gpt-4.1-mini', 'gpt-5-nano', 'gpt-5-mini', 'gpt-4o-mini']"
+3904,ham,I told that am coming on wednesday.,,1,['gpt-5-mini']
+3909,ham,Haven't heard anything and he's not answering my texts so I'm guessing he flaked. That said the jb is fantastic,,1,['gpt-5-mini']
+3927,ham,"Well the general price is <#> /oz, let me know if/when/how much you want",spam,1,['gpt-5-nano']
+3942,ham,I want kfc its Tuesday. Only buy 2 meals ONLY 2. No gravy. Only 2 Mark. 2!,spam,1,['gpt-3.5-turbo-0125']
+3945,spam,Missed call alert. These numbers called but left no message. 07008009200,ham,3,"['gpt-5-nano', 'gpt-5-mini', 'gpt-4.1']"
+3951,ham,Actually i'm waiting for 2 weeks when they start putting ad.,spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+3956,ham,Double eviction this week - Spiral and Michael and good riddance to them!,spam,1,['gpt-3.5-turbo-0125']
+3966,ham,Life style garments account no please.,spam,1,['gpt-4o-mini']
+3976,spam,"accordingly. I repeat, just text the word ok on your mobile phone and send",ham,3,"['gpt-3.5-turbo-0125', 'gpt-5', 'gpt-4.1']"
+3980,ham,"Send ur birthdate with month and year, I will tel u ur LIFE PARTNER'S name. and the method of calculation. Reply must.",spam,7,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+3982,ham,"How about clothes, jewelry, and trips?",spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+3991,ham,<DECIMAL> m but its not a common car here so its better to buy from china or asia. Or if i find it less expensive. I.ll holla,,1,['gpt-5-mini']
+3995,ham,Beauty sleep can help ur pimples too.,spam,1,['gpt-4o-mini']
+4019,spam,Kit Strip - you have been billed 150p. Netcollex Ltd. PO Box 1013 IG11 OJA,ham,1,['gpt-5-mini']
+4021,spam,thesmszone.com lets you send free anonymous and masked messages..im sending this message from there..do you see the potential for abuse???,ham,3,"['gpt-5', 'gpt-5-mini', 'gpt-4.1']"
+4031,ham,He dint tell anything. He is angry on me that why you told to abi.,,1,['gpt-5-mini']
+4039,ham,S...i will take mokka players only:),spam,1,['gpt-3.5-turbo-0125']
+4049,ham,1Apple/Day=No Doctor. 1Tulsi Leaf/Day=No Cancer. 1Lemon/Day=No Fat. 1Cup Milk/day=No Bone Problms 3 Litres Watr/Day=No Diseases Snd ths 2 Whom U Care..:-),spam,6,"['gpt-4.1-mini', 'gpt-5-nano', 'gpt-5', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+4063,ham,Its a valentine game. . . send dis msg to all ur friends. . If 5 answers r d same then someone really loves u. . Ques- which colour suits me the best?,spam,5,"['gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+4066,ham,You still around? I could use a half-8th,spam,1,['gpt-3.5-turbo-0125']
+4067,ham,You give us back my id proof and <#> rs. We wont allow you to work. We will come to your home within days,spam,4,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-4o-mini']"
+4073,ham,Great. So should i send you my account number.,spam,1,['gpt-4o-mini']
+4085,ham,1 I don't have her number and 2 its gonna be a massive pain in the ass and i'd rather not get involved if that's possible,,1,['gpt-5-mini']
+4091,spam,Ur TONEXS subscription has been renewed and you have been charged £4.50. You can choose 10 more polys this month. www.clubzed.co.uk *BILLING MSG*,ham,1,['gpt-5-mini']
+4098,ham,yeah sure thing mate haunt got all my stuff sorted but im going sound anyway promoting hex for .by the way who is this? dont know number. Joke,spam,2,"['gpt-5-nano', 'gpt-4o-mini']"
+4107,spam,RECPT 1/3. You have ordered a Ringtone. Your order is being processed...,ham,2,"['gpt-5-nano', 'gpt-5-mini']"
+4114,ham,Juz go google n search 4 qet...,spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+4136,ham,Update your face book status frequently :),spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+4150,ham,i want to grasp your pretty booty :),spam,3,"['gpt-3.5-turbo-0125', 'gpt-5-mini', 'gpt-4o-mini']"
+4158,ham,Please tell me you have some of that special stock you were talking about,spam,2,"['gpt-3.5-turbo-0125', 'gpt-5-nano']"
+4179,spam,3. You have received your mobile content. Enjoy,ham,4,"['gpt-4.1-mini', 'gpt-5-nano', 'gpt-5-mini', 'gpt-4.1']"
+4188,ham,No..its ful of song lyrics..,spam,1,['gpt-4o-mini']
+4218,spam,Money i have won wining number 946 wot do i do next,ham,1,['gpt-5']
+4219,ham,"Sure, whenever you show the fuck up >:(",,1,['gpt-5']
+4221,ham,"Men always needs a beautiful, intelligent, caring, loving, adjustable, cooperative wife. But the law allows only one wife....",spam,1,['gpt-4o-mini']
+4254,ham,"""SYMPTOMS"" when U are in love: ""1.U like listening songs 2.U get stopped where u see the name of your beloved 3.U won't get angry when your",spam,1,['gpt-4o-mini']
+4255,ham,Sun ah... Thk mayb can if dun have anythin on... Thk have to book e lesson... E pilates is at orchard mrt u noe hor...,,1,['gpt-5-mini']
+4259,ham,PISS IS TALKING IS SOMEONE THAT REALISE U THAT POINT THIS AT IS IT.(NOW READ IT BACKWARDS),spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+4260,ham,Think + da. You wil do.,spam,1,['gpt-4o-mini']
+4294,ham,Have you laid your airtel line to rest?,spam,2,"['gpt-4.1-mini', 'gpt-4o-mini']"
+4299,ham,THANX 4 PUTTIN DA FONE DOWN ON ME!!,spam,1,['gpt-3.5-turbo-0125']
+4312,ham,Good. do you think you could send me some pix? I would love to see your top and bottom...,spam,3,"['gpt-3.5-turbo-0125', 'gpt-5-mini', 'gpt-4o-mini']"
+4316,ham,"Received, understood n acted upon!",,1,['gpt-5-mini']
+4338,ham,God created gap btwn ur fingers so dat sum1 vry special will fill those gaps by holding ur hands.. Now plz dont ask y he created so much gap between legs !!!,spam,2,"['gpt-5-nano', 'gpt-4o-mini']"
+4340,ham,"Finally it has happened..! Aftr decades..! BEER is now cheaper than PETROL! The goverment expects us to ""DRINK"". . . But don't ""DRIVE """,spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+4347,ham,This message is from a great Doctor in India:-): 1) Do not drink APPY FIZZ. It contains Cancer causing age,spam,6,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+4354,ham,Not..tel software name..,spam,1,['gpt-4o-mini']
+4360,spam,"Customer service announcement. We recently tried to make a delivery to you but were unable to do so, please call 07099833605 to re-schedule. Ref:9280114",ham,1,['gpt-5-nano']
+4363,spam,"Hi babe its Chloe, how r u? I was smashed on saturday night, it was great! How was your weekend? U been missing me? SP visionsms.com Text stop to stop 150p/text",ham,1,['gpt-5-mini']
+4365,ham,Wewa is 130. Iriver 255. All 128 mb.,spam,2,"['gpt-5-nano', 'gpt-4o-mini']"
+4396,ham,Thats cool princess! I will cover your face in hot sticky cum :),spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+4411,ham,I (Career Tel) have added u as a contact on INDYAROCKS.COM to send FREE SMS. To remove from phonebook - sms NO to <#>,spam,7,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+4416,ham,Good Morning my Dear Shijutta........... Have a great & successful day.,,1,['gpt-5-mini']
+4421,ham,We have pizza if u want,spam,1,['gpt-5-nano']
+4426,ham,"When you just put in the + sign, choose my number and the pin will show. Right?",spam,2,"['gpt-4.1-mini', 'gpt-5-nano']"
+4441,ham,Prepare to be pleasured :),spam,3,"['gpt-3.5-turbo-0125', 'gpt-4o-mini', 'gpt-4.1']"
+4442,ham,Hi.:)technical support.providing assistance to us customer through call and email:),spam,4,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-mini', 'gpt-4o-mini']"
+4458,ham,"Call me, i am senthil from hsbc.",spam,4,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5-mini']"
+4505,ham,Po de :-):):-):-):-). No need job aha.,spam,1,['gpt-3.5-turbo-0125']
+4508,ham,I hope your pee burns tonite.,spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+4520,ham,S.this will increase the chance of winning.,spam,6,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+4528,ham,yes baby! I need to stretch open your pussy!,spam,3,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+4530,ham,"Hey, a guy I know is breathing down my neck to get him some bud, anyway you'd be able to get a half track to usf tonight?",spam,1,['gpt-3.5-turbo-0125']
+4538,ham,1. Tension face 2. Smiling face 3. Waste face 4. Innocent face 5.Terror face 6.Cruel face 7.Romantic face 8.Lovable face 9.decent face <#> .joker face.,"ham
+ham
+ham
+ham
+ham
+ham
+ham
+ham
+ham",2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+4553,ham,Or just do that 6times,"ham
+ham
+spam
+ham
+spam
+ham",1,['gpt-3.5-turbo-0125']
+4555,ham,Sounds like there could be a lot of time spent in that chastity device boy ... *grins* ... Or take your beatings like a good dog. Going to lounge in a nice long bath now ?,spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+4573,ham,WE REGRET TO INFORM U THAT THE NHS HAS MADE A MISTAKE.U WERE NEVER ACTUALLY BORN.PLEASE REPORT 2 YOR LOCAL HOSPITAL 2B TERMINATED.WE R SORRY 4 THE INCONVENIENCE,spam,6,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+4576,spam,"Goal! Arsenal 4 (Henry, 7 v Liverpool 2 Henry scores with a simple shot from 6 yards from a pass by Bergkamp to give Arsenal a 2 goal margin after 78 mins.",ham,7,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+4584,ham,Oh yah... We never cancel leh... Haha,,1,['gpt-5-mini']
+4592,ham,Match started.india <#> for 2,spam,2,"['gpt-4.1-mini', 'gpt-4o-mini']"
+4593,ham,Once free call me sir.,spam,1,['gpt-4o-mini']
+4594,ham,Hey do you want anything to buy:),spam,3,"['gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-4o-mini']"
+4596,ham,K..k.:)congratulation ..,spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+4619,ham,I want <#> rs da:)do you have it?,spam,2,"['gpt-4.1-mini', 'gpt-4o-mini']"
+4620,ham,I want to see your pretty pussy...,spam,5,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+4624,spam,You can donate £2.50 to UNICEF's Asian Tsunami disaster support fund by texting DONATE to 864233. £2.50 will be added to your next bill,ham,2,"['gpt-5', 'gpt-4.1']"
+4627,ham,We are supposed to meet to discuss abt our trip... Thought xuhui told you? In the afternoon. Thought we can go for lesson after that,,1,['gpt-5-mini']
+4633,ham,You are gorgeous! keep those pix cumming :) thank you!,spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+4639,ham,Networking job is there.,spam,2,"['gpt-4.1-mini', 'gpt-4o-mini']"
+4660,ham,There's someone here that has a year <#> toyota camry like mr olayiwola's own. Mileage is <#> k.its clean but i need to know how much will it sell for. If i can raise the dough for it how soon after landing will it sell. Holla back.,spam,1,['gpt-3.5-turbo-0125']
+4683,ham,Go chase after her and run her over while she's crossing the street,spam,5,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5-mini', 'gpt-4o-mini']"
+4686,ham,Ok i vl..do u know i got adsense approved..,spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+4694,ham,She ran off with a younger man. we will make pretty babies together :),spam,1,['gpt-4o-mini']
+4695,spam,Jamster! To get your free wallpaper text HEART to 88888 now! T&C apply. 16 only. Need Help? Call 08701213186.,,1,['gpt-5-mini']
+4740,ham,"St andre, virgil's cream",spam,2,"['gpt-4.1-mini', 'gpt-4o-mini']"
+4745,ham,But i'm really really broke oh. No amount is too small even <#>,spam,2,"['gpt-5-nano', 'gpt-4o-mini']"
+4751,spam,This msg is for your mobile content order It has been resent as previous attempt failed due to network error Queries to customersqueries@netvision.uk.com,ham,1,['gpt-5-mini']
+4805,ham,Lol no. I just need to cash in my nitros. Hurry come on before I crash out!,spam,1,['gpt-3.5-turbo-0125']
+4806,ham,Just send a text. We'll skype later.,,1,['gpt-5-mini']
+4837,ham,WOT STUDENT DISCOUNT CAN U GET ON BOOKS?,spam,1,['gpt-3.5-turbo-0125']
+4842,ham,"I know you are thinkin malaria. But relax, children cant handle malaria. She would have been worse and its gastroenteritis. If she takes enough to replace her loss her temp will reduce. And if you give her malaria meds now she will just vomit. Its a self limiting illness she has which means in a few days it will completely stop",,1,['gpt-5-mini']
+4846,ham,3 pa but not selected.,spam,1,['gpt-4o-mini']
+4866,ham,"Gud gud..k, chikku tke care.. sleep well gud nyt",,1,['gpt-5-mini']
+4870,ham,Thank you princess! I want to see your nice juicy booty...,spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+4872,ham,U come n search tat vid..not finishd..,,1,['gpt-5-mini']
+4881,ham,1 in cbe. 2 in chennai.,spam,1,['gpt-4o-mini']
+4883,ham,If anyone calls for a treadmill say you'll buy it. Make sure its working. I found an ad on Craigslist selling for $ <#> .,spam,1,['gpt-5-nano']
+4972,ham,This is ur face test ( 1 2 3 4 5 6 7 8 9 <#> ) select any number i will tell ur face astrology.... am waiting. quick reply...,spam,6,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+4978,ham,Just trying to figure out when I'm suppose to see a couple different people this week. We said we'd get together but I didn't set dates,,1,['gpt-5']
+4981,spam,dating:i have had two of these. Only started after i sent a text to talk sport radio last week. Any connection do you think or coincidence?,ham,7,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-5-nano', 'gpt-5', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+4986,spam,The current leading bid is 151. To pause this auction send OUT. Customer Care: 08718726270,ham,2,"['gpt-5-nano', 'gpt-5-mini']"
+4988,ham,Somebody set up a website where you can play hold em using eve online spacebucks,spam,2,"['gpt-5-nano', 'gpt-4o-mini']"
+4995,ham,I will be gentle baby! Soon you will be taking all <#> inches deep inside your tight pussy...,spam,3,"['gpt-4.1-mini', 'gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+5001,ham,I dont know exactly could you ask chechi.,,1,['gpt-5-mini']
+5003,ham,As in i want custom officer discount oh.,spam,1,['gpt-4o-mini']
+5023,ham,My slave! I want you to take 2 or 3 pictures of yourself today in bright light on your cell phone! Bright light!,spam,2,"['gpt-3.5-turbo-0125', 'gpt-4o-mini']"
+5050,ham,"And that's fine, I got enough bud to last most of the night at least",,1,['gpt-5-mini']
+5054,spam,"Latest News! Police station toilet stolen, cops have nothing to go on!",ham,6,"['gpt-4.1-mini', 'gpt-5-nano', 'gpt-5', 'gpt-5-mini', 'gpt-4o-mini', 'gpt-4.1']"
+5057,ham,What???? Hello wats talks email address?,spam,1,['gpt-4o-mini']
+5058,ham,Except theres a chick with huge boobs.,spam,1,['gpt-4o-mini']
+5074,ham,Dhoni have luck to win some big title.so we will win:),,1,['gpt-5-mini']
+5075,ham,Yes princess! I want to please you every night. Your wish is my command...,spam,1,['gpt-3.5-turbo-0125']
+5076,ham,No probably <#> %.,spam,2,"['gpt-4.1-mini', 'gpt-4o-mini']"
+5092,ham,Yes... I trust u to buy new stuff ASAP so I can try it out,spam,1,['gpt-3.5-turbo-0125']
+5095,ham,Love has one law; Make happy the person you love. In the same way friendship has one law; Never make ur friend feel alone until you are alive.... Gud night,,1,['gpt-5-mini']
+5098,ham,"Perhaps * is much easy give your account identification, so i will tomorrow at UNI",spam,2,"['gpt-5-nano', 'gpt-4o-mini']"
+5102,ham,I want to be inside you every night...,spam,1,['gpt-3.5-turbo-0125']
+5115,ham,You are a big chic. Common. Declare,spam,1,['gpt-3.5-turbo-0125']
+5131,spam,ASKED 3MOBILE IF 0870 CHATLINES INCLU IN FREE MINS. INDIA CUST SERVs SED YES. L8ER GOT MEGA BILL. 3 DONT GIV A SHIT. BAILIFF DUE IN DAYS. I O £250 3 WANT £800,ham,5,"['gpt-4.1-mini', 'gpt-5-nano', 'gpt-5', 'gpt-5-mini', 'gpt-4.1']"
+5137,ham,Ic. There are a lotta childporn cars then.,spam,1,['gpt-4o-mini']
+5147,ham,No. I meant the calculation is the same. That <#> units at <#> . This school is really expensive. Have you started practicing your accent. Because its important. And have you decided if you are doing 4years of dental school or if you'll just do the nmde exam.,,1,['gpt-5-mini']
+5150,ham,Get me out of this dump heap. My mom decided to come to lowes. BORING.,,1,['gpt-5-mini']
+5157,ham,Will ü b going to esplanade fr home?,,1,['gpt-5-mini']

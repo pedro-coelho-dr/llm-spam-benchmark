@@ -1,0 +1,177 @@
+id,prediction,reasoning
+1,ham,"1. Linguistic cues: Informal, colloquial language and local slang (""la"", ""wat"", ""n"", ""e"") and place names (""jurong point"", ""bugis"", ""great world"") indicate a casual conversational tone rather than a sales pitch.
+2. Structural cues: Ellipses and fragmented sentences mimic spoken chat; no phone numbers, links, offers, or marketing phrasing present.
+3. Contextual interpretation: The message appears to discuss locations and options (buffet, cinema) — likely arranging or commenting about plans — which is personal/relational in intent.
+4. Decision summary: The tone, wording, and context point to an informal personal message, not unsolicited promotion, so it is ham."
+8,ham,"1. Linguistic cues: Phrases like ""As per your request"" and ""has been set as your callertune"" indicate a confirmation of a user-initiated service change rather than an unsolicited offer. The message quotes a specific song title, which is informational.
+2. Structural cues: The message is a short, formal service notification without promotional language, links, or requests for personal/financial information. It includes a simple action code (""Press *9"") typical of telecom service messages.
+3. Contextual interpretation: The intent is to confirm that a callertune was set and to provide an optional action to copy a friend's callertune — a transactional/utility notification from a service provider rather than spam or a scam.
+4. Decision summary: The content is a legitimate service confirmation and actionable instruction related to the user's request, so it is classified as ham."
+55,ham,"1. Linguistic cues: The message names sports teams and asks a factual question (""Correct or Incorrect?""), with no promotional language (no offers, prices, links, or calls to buy).
+2. Structural cues: Short SMS-style phrasing and an instruction to ""Reply END SPTV"" indicates an interactive quiz/confirmation format rather than marketing copy; punctuation and capitalization are neutral.
+3. Contextual interpretation: The purpose appears to be a quick sports trivia/confirmation prompt from a service, not an unsolicited advertisement or fraud attempt.
+4. Decision summary: Because the text is informational/interactive about sports and lacks promotional or malicious intent, it is classified as ham."
+67,spam,"1. Linguistic cues: Use of imperative forwarding language (""Send this to all ur valuable frnds""), casual shorthand (""u"", ""ur"", ""frnds""), and chain-like phrasing (""Today is 'song dedicated day..'"").
+2. Structural cues: Ellipses and informal punctuation create a viral/chain-message tone; explicit call-to-action to forward the message.
+3. Contextual interpretation: The message is designed to propagate itself to many recipients (a chain/forward request), not to convey personal or informational content — typical of unsolicited or viral spam.
+4. Decision summary: Although not promotional or fraudulent, the primary intent is mass forwarding and propagation, classifying it as spam."
+268,ham,"1. Linguistic cues: <Informal, conversational phrasing (""Come to mu,"" ""we're sorting out""), direct invitation; contains the word ""narcotics"" indicating discussion of drugs but no promotional language.>
+2. Structural cues: <Short, single-message format with contractions, no links, offers, prices, or marketing phrasing; looks like a personal text.>
+3. Contextual interpretation: <Reads as a private, person-to-person invite to address an issue involving drugs rather than an unsolicited commercial or promotional message.>
+4. Decision summary: <Despite referencing illegal activity, the message is a personal invitation and not promotional or fraudulent, so it fits the ""ham"" category.>"
+404,ham,"1. Linguistic cues: Phrases like ""Missing U a lot thats y everything is missing"" express personal sentiment and direct address, typical of a personal message rather than an advertisement or scam.
+2. Structural cues: The text contains placeholders and metadata (""some text missing"", ""Sender:Name Missing""), and lacks promotional wording, calls to action, prices, or urgent directives commonly found in spam.
+3. Contextual interpretation: Although it mentions ""sent via fullonsms.com"" (a third‑party SMS service), the core intent appears emotional/personal rather than commercial or fraudulent.
+4. Decision summary: Overall content and tone indicate a personal message conveying emotion, so it should be classified as ham."
+832,spam,"1. Linguistic cues: Uses highly suggestive, seductive language (""baby"", ""bring out your inner tigress"") typical of solicitation rather than neutral personal content.
+2. Structural cues: Short, punchy sentence with an ellipsis and exclamation — common in attention-grabbing promotional or spammy messages designed to entice.
+3. Contextual interpretation: The message reads like an unsolicited sexual proposition (possible adult chat or dating solicitation) rather than a benign personal update or genuine conversational message.
+4. Decision summary: The combination of erotic phrasing, persuasive tone, and lacking personal context indicates an unsolicited/solicitous intent, so it is classified as spam."
+907,ham,"1. Linguistic cues: First-person phrasing (""i will give my kvb acc details"") and friendly emoticons ("":)"") indicate a personal, casual message rather than marketing language.
+2. Structural cues: Informal, short sentence with no promotional keywords, no links, no phone numbers, no offers, and no urgent call-to-action typical of spam.
+3. Contextual interpretation: The sender is offering to share personal bank account details (private, transactional/one-to-one communication), which implies a legitimate personal exchange rather than unsolicited advertising or fraud.
+4. Decision summary: The content, tone, and structure point to a personal message about sharing private information, so it should be classified as ham."
+951,ham,"1. Linguistic cues: The message is a simple, direct question (""what is your account number?"") using conversational language and no promotional wording.
+2. Structural cues: Short, lowercase sentence with no links, offers, calls to action, or typical spam punctuation (e.g., excessive symbols or urgent caps).
+3. Contextual interpretation: It appears to be a personal/requesting question seeking information rather than trying to sell, advertise, or defraud; there are no clear indicators of unsolicited commercial content.
+4. Decision summary: Because the content is a straightforward, non-promotional question without spammy markers, it is classified as ham."
+956,ham,"1. Linguistic cues: Informal, conversational language (""Hey you can pay"", ""With salary de"") suggests a personal message rather than marketing copy; no promotional words like ""free"", ""win"", ""offer"", ""buy now"".
+2. Structural cues: Short, fragmented sentences and a direct address (""Hey you"") look like a one-to-one request; presence of an amount placeholder (""<#>"") implies a specific personal sum rather than a generic deal.
+3. Contextual interpretation: The message appears to be asking or reminding a recipient to make a payment, likely between acquaintances (mention of salary implies personal repayment timing), not soliciting a broad audience.
+4. Decision summary: The content reads as a personal payment request/reminder with informal phrasing and no promotional intent, so it is classified as ham."
+1196,ham,"1. Linguistic cues: First-person phrasing (""I want to send something"", ""is not easy money"") indicates a personal statement rather than a promotional pitch; no marketing buzzwords like ""free"", ""win"", ""offer"", or urgent calls-to-action.
+2. Structural cues: Simple sentence structure, informal tone, and use of a placeholder (""<#> k"") suggesting a personal reference to an amount rather than a formatted promotional offer or URL.
+3. Contextual interpretation: The message reads as someone discussing selling an item quickly and remarking that a certain amount (""<#>k"") is not easy money — this expresses intent or opinion rather than soliciting or advertising to the recipient.
+4. Decision summary: Overall content and tone are personal and informational, not promotional or unsolicited, so the appropriate label is ham."
+1408,ham,"1. Linguistic cues: Uses first-person phrasing (""I need drugs"") and casual conversational tone (""That's good, because ...""), indicating a personal statement rather than promotional language.
+2. Structural cues: Short, single-sentence message with no marketing markers (no links, prices, offers, call-to-action, or branded language).
+3. Contextual interpretation: The message expresses an individual's need (potentially medical or personal) rather than attempting to sell, advertise, or scam; intent appears personal/communicative.
+4. Decision summary: Despite referencing ""drugs,"" the message lacks promotional or unsolicited characteristics and functions as a personal statement, so it should be classified as ham."
+1535,ham,"1. Linguistic cues: Uses neutral, informational language (""no other charges"", ""you can withdraw anyhow you like"") rather than promotional or persuasive wording.
+2. Structural cues: Single plain sentence with no links, phone numbers, call-to-action, or marketing phrases; no urgency or sales punctuation.
+3. Contextual interpretation: Reads like a transactional or personal clarification about fees and withdrawal options (likely from a bank or a person), not an unsolicited offer or scam.
+4. Decision summary: The message is informational and non-promotional, so it is classified as ham."
+1663,ham,"1. Linguistic cues: The message contains explicit sexual terms (""missionary,"" ""doggy,"" ""hook up,"" ""standing"") that indicate a personal sexual context rather than commercial language or offers.
+2. Structural cues: Short, casual phrasing and trailing ellipsis suggest conversational or flirtatious text rather than a structured advertisement, link, or call-to-action typical of spam.
+3. Contextual interpretation: The content appears to be part of a personal/sexual discussion or sexting about positions and hookup activity, not an unsolicited promotional, fraudulent, or marketing message.
+4. Decision summary: Because the message is explicit and personal in nature without promotional intent or spam-like formatting, it should be classified as ham."
+1787,ham,"1. Linguistic cues: Congratulatory phrasing (""You got job in wipro"", ""you will get every thing in life""), use of a smiley emoticon "":)"" and second-person address indicate a personal, supportive tone.
+2. Structural cues: Casual punctuation and informal spacing, no links, offers, phone numbers, or marketing language present.
+3. Contextual interpretation: The message shares personal news and encouragement rather than promoting a product, service, or scam; it reads like a friend or acquaintance celebrating good news.
+4. Decision summary: All cues point to a legitimate, non-promotional personal message, so the correct label is ham."
+1991,ham,"1. Linguistic cues: Informal, conversational language (""Who's there"", ""say hi"", ""our drugdealer"") suggests a personal message between acquaintances rather than promotional copy.
+2. Structural cues: No links, phone numbers, offers, or call-to-action typical of spam; casual punctuation and phrasing indicate a direct chat-style text.
+3. Contextual interpretation: The intent appears to be social—asking someone to identify themselves or greet a known person—rather than advertising, soliciting, or scamming.
+4. Decision summary: Despite referencing an illicit role, the message reads as a personal, informal prompt to greet someone, so it is classified as ham."
+2117,ham,"1. Linguistic cues: Contains direct, intimate language and sexual phrasing (""princess"", ""Do i make you wet?"") and a smiling emoticon, indicating a personal, flirtatious tone rather than promotional wording.
+2. Structural cues: Informal capitalization and punctuation, use of a pet name and emoticon, and no links, offers, or call-to-action typical of spam.
+3. Contextual interpretation: Message appears intended to arouse or flirt with a specific recipient (personal communication) rather than to advertise, solicit, or deceive.
+4. Decision summary: The intimate, conversational language and lack of promotional content indicate this is a personal/sexual message, so it is classified as ham."
+2169,ham,"1. Linguistic cues: Colloquial phrasing (""Here got lots of...,"" ""fr"" for ""from"") and informal tone indicate a casual, conversational message rather than marketing copy.
+2. Structural cues: Short, single-sentence statement with no call-to-action, price, link, or typical promotional wording.
+3. Contextual interpretation: Reads like an observation or message to a friend about the local availability of hairdressers from China, not an unsolicited commercial offer.
+4. Decision summary: The informal language and lack of promotional markers point to a personal remark, so the message is classified as ham."
+2269,spam,"1. Linguistic cues: Mentions a commercial product by name (""Boost"", ""drinking boost evrydy"", ""Boost is d secret of my energy"") and includes an explicit offer-like phrase (""I hv free msgs""), which are common in promotional or forwarded marketing texts.
+2. Structural cues: Heavy use of leetspeak/abbreviations, emoticons, and a short anecdotal story ending with a moral — a format typical of chain/forwarded promotional SMS rather than a personal message.
+3. Contextual interpretation: The story serves to endorse the product (portrays Boost as the source of energy and happiness), indicating promotional intent rather than a purely personal communication.
+4. Decision summary: Because the message promotes a branded product and resembles a chain/marketing forward with an offer of ""free msgs,"" it should be classified as spam."
+2283,ham,"1. Linguistic cues: The message uses direct, explicit sexual language (""pussy"") and a personal second‑person address (""Your""), framed as a compliment (""is perfect!""), indicating an intimate or personal tone rather than promotional phrasing.
+2. Structural cues: It's a short, single declarative sentence with exclamatory emphasis; there are no links, numbers, offers, or calls to action typical of spam/phishing.
+3. Contextual interpretation: The content reads as a personal erotic compliment likely intended for an individual recipient rather than an unsolicited commercial or fraudulent solicitation.
+4. Decision summary: Because the message is intimate/personal in tone, lacks promotional or deceptive elements, and appears to be a direct sexual remark rather than an advertisement or scam, it is best classified as ham."
+2530,ham,"1. Linguistic cues: Polite, first-person plea (""Hi, can i please get..."", ""I.ll pay you back"", ""Pls."") with personal timeframe (""by mid february"")—language of a personal request rather than a promotional pitch.
+2. Structural cues: Informal punctuation/typos (I.ll), no links, no business names, offers, discounts, or call-to-action typical of spam.
+3. Contextual interpretation: The message is asking an individual for a personal loan and promising repayment—an interpersonal financial request, not unsolicited advertising or a fraudulent-sounding mass message.
+4. Decision summary: The content and style indicate a personal plea for help rather than commercial or promotional messaging, so it should be labeled ham."
+2543,spam,"1. Linguistic cues: Use of terms like ""darling"" and ""sexy"" and the request ""tell me what you look like and what you are in to"" signal sexual solicitation and flirtatious intent.
+2. Structural cues: Informal, one-shot opening with casual punctuation and a conversational push to engage (no personal context or reference), typical of unsolicited messages.
+3. Contextual interpretation: The message's purpose is to initiate an explicit/personal chat and solicit personal descriptors — characteristic of unwanted adult solicitation or spam rather than a routine personal message.
+4. Decision summary: Language and tone indicate an unsolicited sexual approach intended to provoke a response, so the message is classified as spam."
+2593,ham,"1. Linguistic cues: The message uses explicit, sexual language (""I am <#> inches long"", ""hope you like them big!"") and informal, conversational tone (""Cool."").
+2. Structural cues: Short, direct sentences without URLs, offers, calls to action, or commercial phrasing; contains a redacted numeric placeholder (""<#>"") suggesting a personal attribute rather than promotional content.
+3. Contextual interpretation: The intent appears to be personal/sexual communication or flirtation directed at the recipient, not an unsolicited advertisement, scam, or promotional message.
+4. Decision summary: Although explicit, the message is personal and non-commercial in nature, so it should be classified as ham."
+2634,ham,"1. Linguistic cues: Uses direct, instructional language (""Open rebtel with firefox"", ""put plus sign"", ""Once you pick that number the pin will display""), mentions ""my number"" which indicates a personal context rather than promotion.
+2. Structural cues: Plain, conversational sentence structure with step-by-step directions, no marketing phrases, no links, no call-to-action typical of spam.
+3. Contextual interpretation: The message appears to be troubleshooting or guiding someone to retrieve a PIN/phone number on a specific service (Rebtel) — a personal or support-oriented intent rather than unsolicited advertising or fraud.
+4. Decision summary: Because it provides specific, personal instructions without promotional or fraudulent indicators, it is classified as ham."
+2655,ham,"1. Linguistic cues: Informal, conversational wording (""Yeah get the unlimited"") with casual affirmation ""Yeah"" and directive ""get"" suggests a personal reply or recommendation rather than a promotional pitch.
+2. Structural cues: Short, plain text with no marketing markers (no brand names, no links, no capitalization patterns, no phone numbers or codes) and no sales-y phrasing like ""buy now,"" ""free,"" or ""limited time.""
+3. Contextual interpretation: Reads like a one-to-one response advising someone to choose an ""unlimited"" option (e.g., a phone plan or service) in a personal conversation, not an unsolicited advertisement or scam.
+4. Decision summary: The message is an informal, personal recommendation without promotional or fraudulent indicators, so it is labeled ham."
+3040,ham,"1. Linguistic cues: Informal, conversational language (""What's ur"" using text shorthand ""ur"") and a direct question; no marketing words (free, win, offer) or calls-to-action typical of spam.
+2. Structural cues: Very short, single-sentence question with a question mark; lacks links, numbers, promotional formatting, or bulk-mail markers.
+3. Contextual interpretation: The message appears to be a person asking another person for a PIN (personal/transactional information) rather than an unsolicited promotional or fraudulent pitch. While requesting a PIN can be risky, the intent expressed is interpersonal rather than promotional.
+4. Decision summary: The style and content indicate a private, conversational request, so it is classified as ham (non-promotional)."
+3226,spam,"1. Linguistic cues: The affectionate language (""LIFE has never been this much fun...You made it truly special"") mimics a personal message, but the closing phrase ""enjoy @ one gbp/sms"" explicitly mentions a price and per-SMS rate, which is a commercial/payment cue.
+2. Structural cues: Use of ""@"" and the pricing unit ""one gbp/sms"" (currency + ""/sms"") is typical of promotional or premium service messages rather than genuine personal texts.
+3. Contextual interpretation: The presence of a cost implies the sender intends to monetize the message (subscription or premium SMS), making it promotional/unsolicited rather than purely personal.
+4. Decision summary: Despite the sentimental wording, the explicit pricing and service-style format indicate a commercial/premium message, so it should be classified as spam."
+3229,spam,"1. Linguistic cues: Uses an imperative prompt (""Please reply with your AGE and GENDER"") and a terse example (""e.g 24M""), which are common in automated, non-personal messages.
+2. Structural cues: Template-like, generic greeting (""Welcome!""), all-caps labels (AGE and GENDER), and a short, transactional format indicate an automated/system message rather than a personal conversation.
+3. Contextual interpretation: The message is soliciting personal demographic information likely for registration, marketing, or data collection — typical behavior of promotional or unsolicited services rather than a personal/human sender.
+4. Decision summary: The combination of automated tone, template structure, and solicitation of personal info indicates this is spam."
+3326,ham,"1. Linguistic cues: Informal, conversational language (""naughty pix"", smiley "":)""), first-person question directly addressing the recipient — indicates a personal solicitation rather than a commercial offer.
+2. Structural cues: Short, single-sentence question with casual punctuation and a smiley emoticon; lacks links, offers, or marketing language typical of spam.
+3. Contextual interpretation: The intent is to solicit sexual images from the recipient in a personal exchange; there is no promotion, product, or fraudulent scheme.
+4. Decision summary: Although explicit and potentially inappropriate, the message is a personal solicitation rather than unsolicited commercial or fraudulent content, so it is classified as ham."
+3473,ham,"1. Linguistic cues: The message uses informal, first-person language and explicit sexual phrasing (""I shoot big loads"", ""get ready!"") indicating a personal, intimate tone rather than commercial or promotional wording.
+2. Structural cues: Short, direct sentences with exclamation marks and no links, offers, or call-to-action typical of ads or scams.
+3. Contextual interpretation: The content appears to be a personal sexual message directed at a known recipient rather than unsolicited solicitation, fraud, or marketing.
+4. Decision summary: Given the explicit, personal nature and absence of promotional or deceptive elements, this is best classified as ham (personal/legitimate) rather than spam."
+3521,ham,"1. Linguistic cues: The message contains only terse alphanumeric tokens (""2/2 146tf150p"") with no promotional keywords (e.g., ""free"", ""win"", ""offer"", ""buy""), no URLs, and no call-to-action language.
+2. Structural cues: The short, compact format resembles a personal shorthand or code (dates, measurements, or notes) rather than the longer, formatted structure typical of spam (sales pitch, pricing, links, instructions to reply).
+3. Contextual interpretation: The content appears to be a brief personal note or coded information (e.g., a date and numeric/alpha code) with no persuasive or unsolicited intent; there is no indication of advertising, phishing, or fraud.
+4. Decision summary: Absence of promotional language, links, or solicitations and the presence of terse, likely personal shorthand lead to classification as ham."
+3603,ham,"1. Linguistic cues: Informal language and shorthand (""Let's"", ""u"", ""Deal?"") and first-person/plural pronouns (""our"", ""we"") indicate a personal one-to-one proposal rather than a commercial pitch.
+2. Structural cues: Casual punctuation and sentence structure, no links, no call-to-action typical of marketing, and use of placeholders (""<#> %"") rather than promotional details.
+3. Contextual interpretation: The message proposes splitting lottery tickets and winnings among participants — a personal solicitation to collaborate, not an unsolicited advertisement, scam, or mass promotion.
+4. Decision summary: The content is a personal invitation to pool money for lotto tickets, lacking promotional or fraudulent markers, so it should be classified as ham."
+3607,ham,"1. Linguistic cues: Casual, conversational language (""Early bird!"", ""Any purchases yet?"") with no promotional wording, offers, links, or calls to action typical of spam.
+2. Structural cues: Short, informal two-sentence message with natural punctuation and no marketing formatting (no all-caps, no URL, no phone numbers, no discount codes).
+3. Contextual interpretation: Reads like a personal check-in or quick question between acquaintances about buying activity, not an unsolicited advertisement or scam.
+4. Decision summary: The message is a brief, informal inquiry without promotional content, so it is classified as ham."
+3617,ham,"1. Linguistic cues: The message uses a polite request (""Can you plz tell me the ans.""), shorthand (""plz"", ""ans.""), and refers to a specific code (""BSLVYL""), indicating a personal question rather than marketing language.
+2. Structural cues: Short, conversational SMS style with informal abbreviations and a single informational URL mention (""fullonsms.com""); there are no promotional phrases, calls-to-action, prices, or urgency markers.
+3. Contextual interpretation: The sender is asking for help identifying or decoding a message/code that was sent via an SMS service; the intent appears to be informational or personal assistance, not to advertise or solicit.
+4. Decision summary: The content is a personal request for information and lacks promotional or fraudulent indicators, so it is classified as ham."
+3650,ham,"1. Linguistic cues: Casual, conversational language (""I know what we're doin tonight""), first-person reference, and slang-like contraction indicating a personal message rather than a formal advertisement.
+2. Structural cues: Informal punctuation and spacing, inclusion of a placeholder ""<#>"" suggesting a conversational mention of pizza size, not polished marketing copy.
+3. Contextual interpretation: The sender is informing/arranging plans with the recipient about a cheap pizza special—not soliciting or promoting to a broad audience.
+4. Decision summary: The message reads like a personal plan based on a local deal, so it is legitimate personal communication (ham)."
+3945,ham,"1. Linguistic cues: The message uses neutral, informational language (""Missed call alert"", ""called but left no message"") without persuasive, promotional, or urgent phrases typical of spam (e.g., ""win"", ""free"", ""act now"").
+2. Structural cues: Short, factual structure with a single phone number listed; lacks links, offers, strange punctuation or call-to-action that often indicate spam or phishing.
+3. Contextual interpretation: The intent appears to be a simple notification about missed calls, a common legitimate service provided by telecom operators or call-tracking services.
+4. Decision summary: The message is an informational alert rather than a promotional or fraudulent solicitation, so it is classified as ham."
+3976,spam,"1. Linguistic cues: Imperative phrasing (""just text the word ok"", ""I repeat"") and short directive language are common in automated or promotional prompts rather than natural personal conversation.
+2. Structural cues: Lack of personal address or context, clipped sentence fragments, and repetitive instruction suggest a generic mass message or automated request.
+3. Contextual interpretation: The message seeks an immediate reply with a single keyword—behavior often used by marketers or scammers to confirm active numbers or opt users into services.
+4. Decision summary: The combination of a generic imperative request, repetition, and absence of personal context indicates an unsolicited, likely promotional/automated intent, so it is classified as spam."
+4021,ham,"1. Linguistic cues: The message uses conversational language (""im sending this message from there..do you see the potential for abuse???"") and asks a rhetorical/questioning prompt rather than making an unsolicited offer or call to action. Although it mentions ""free,"" the tone is informational/concerned rather than promotional.
+2. Structural cues: Informal punctuation (ellipses, multiple question marks) and first-person statement indicate a personal or demonstrative message, not the polished formatting typical of marketing or phishing.
+3. Contextual interpretation: The sender appears to be demonstrating a capability of a service and soliciting an opinion about possible misuse, suggesting discussion or warning rather than an attempt to sell, solicit, or defraud.
+4. Decision summary: Overall the content is informational and conversational with no promotional, fraudulent, or unsolicited intent, so it is classified as ham."
+4150,ham,"1. Linguistic cues: uses direct first-person desire (""i want to grasp your pretty booty""), explicit sexual language (""booty""), and a friendly emoticon ("":)""), indicating a personal/sexual tone rather than commercial phrasing.
+2. Structural cues: short, informal, lowercase texting style with no links, offers, prices, or call-to-action typical of promotional or scam messages.
+3. Contextual interpretation: content appears to be a private sexual solicitation or flirtation directed at an individual rather than an unsolicited advertisement, fraud, or mass-distributed promotion.
+4. Decision summary: although explicit and potentially inappropriate, the message is personal/sexual in nature and lacks hallmarks of spam (commercial content, links, or scam indicators), so it is classified as ham."
+4312,spam,"1. Linguistic cues: Uses requests for ""pix"" and explicit phrasing (""your top and bottom""), sexual solicitation language indicating an attempt to obtain intimate images.
+2. Structural cues: Short, direct imperative/question format asking for content, informal shorthand (""pix""), and trailing ellipsis implying persistence or suggestiveness.
+3. Contextual interpretation: The intent is to solicit explicit photos—unsolicited sexual content—which fits patterns of spam/unwanted solicitation even if not commercial.
+4. Decision summary: The message is an unsolicited sexual request for images (solicitation), so it should be classified as spam."
+4441,ham,"1. Linguistic cues: The phrase ""Prepare to be pleasured"" is direct, intimate and sexual; the smiling emoticon "":)"" reinforces a personal, flirtatious tone rather than promotional language.
+2. Structural cues: Very short, informal message with no links, offers, discounts, phone numbers, or call-to-action typical of spam.
+3. Contextual interpretation: The intent appears to be personal/romantic or sexual communication aimed at an individual, not an attempt to sell, solicit, or defraud a broad audience.
+4. Decision summary: The wording and format indicate a personal, flirtatious message rather than unsolicited advertising or fraud, so it is classified as ham."
+4528,ham,"1. Linguistic cues: Uses intimate terms (""baby"") and explicit sexual language (""pussy"", ""stretch open"") indicating a personal, erotic message.
+2. Structural cues: Informal, direct address with exclamation; no promotional language, links, offers, or call-to-action typical of spam.
+3. Contextual interpretation: Reads as a personal sexual proposition between individuals rather than an unsolicited advertisement, fraud, or mass-marketing message.
+4. Decision summary: The message is explicit and sexual but clearly personal and not promotional or fraudulent, so it should be labeled ham."
+4594,ham,"1. Linguistic cues: Uses casual greeting ""Hey"", direct second-person ""you"", and a friendly emoticon "":)"", indicating a personal, conversational tone rather than promotional language.
+2. Structural cues: Short, informal sentence with no links, offers, discounts, or salesy phrases; punctuation and smiley suggest a personal message.
+3. Contextual interpretation: Reads like someone offering to buy something for the recipient (a personal favor), not an unsolicited advertisement or scam.
+4. Decision summary: The friendly, direct language and lack of promotional elements indicate a personal message, so it is classified as ham."
+4995,spam,"1. Linguistic cues: Explicit sexual language (""tight pussy"", ""inches deep"") and a direct sexual promise (""I will be gentle baby"") indicate sexual solicitation rather than a neutral personal message.
+2. Structural cues: Use of a nickname (""baby""), exclamation, and a numeric placeholder (""<#> inches"") resemble templated or mass-sent erotic/solicitous messages.
+3. Contextual interpretation: The message's purpose appears to be sexual arousal/solicitation rather than carrying personal, informational, or transactional content; such unsolicited erotic content is typically classified as spam.
+4. Decision summary: Explicit, solicitation-style language and template-like structure point to unsolicited sexual spam rather than legitimate personal communication."
