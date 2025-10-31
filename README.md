@@ -150,4 +150,26 @@ results/
  └── ...
 ```
 
-## Resultados
+## 📊 Resultados 
+
+### Notebook
+[evaluate_models.ipynb](notebooks/evaluate_models.ipynb)
+
+### Imagens
+
+**Comparação entre Modelos**  
+![comparacao](img/comparacao.png)
+
+**Falsos Positivos e Negativos**  
+![fpfn](img/fpfn.png)
+
+**Matriz de Confusão**  
+![matriz](img/matriz.png)
+
+**Trade-off Precisão vs Recall**  
+![tradeoff](img/tradeoff.png)
+
+**Triângulo de Performance**  
+![triangle](img/triangle.png)
+
+
