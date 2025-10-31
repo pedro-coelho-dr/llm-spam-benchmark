@@ -150,7 +150,7 @@ results/
  └── ...
 ```
 
-## 📊 Resultados 
+## Resultados 
 
 ### Notebook
 [evaluate_models.ipynb](notebooks/evaluate_models.ipynb)
@@ -171,5 +171,3 @@ results/
 
 **Triângulo de Performance**  
 ![triangle](img/triangle.png)
-
-
