@@ -171,3 +171,37 @@ results/
 
 **Triângulo de Performance**  
 ![triangle](img/triangle.png)
+
+
+## Enron Dataset for Spam Detection
+
+O Enron Spam Corpus é um conjunto público de cerca de 33.000 e-mails (entre mensagens legítimas e spam), coletados dos servidores da Enron Corporation. Após o colapso da empresa, esses e-mails foram liberados e posteriormente rotulados manualmente para uso em pesquisas sobre filtragem de spam e classificação de textos.
+O dataset é amplamente usado como benchmark por apresentar mensagens reais de ambiente corporativo, contendo linguagem formal, assinaturas, anexos e threads, o que o torna mais desafiador do que simples coleções de spam promocional.
+
+### Paper
+
+O paper “A pipeline and comparative study of 12 machine learning models for text classification” (Occhipinti, Rogers & Angione, 2022) propõe uma pipeline unificada para otimizar pré-processamento, seleção de atributos e ajuste de hiperparâmetros em modelos de aprendizado de máquina aplicados à detecção de spam.
+Foram comparados 12 algoritmos, incluindo:
+
+- Naïve Bayes (Multinomial, Gaussian, Bernoulli)
+- Support Vector Machines (SVM) (Linear, Polinomial, RBF, Sigmoidal)
+- k-Nearest Neighbors (kNN)
+- Multilayer Perceptron Neural Network (MPNN)
+- Logistic Regression (LR)
+- Random Forest (RF)
+- Extreme Gradient Boost (XGBoost)
+
+### Resultados do Benchmark com Modelos GPT
+
+#### Notebook
+[evaluate_enron_dataset.ipynb](notebooks/evaluate_enron_dataset.ipynb)
+
+#### Resultado
+![enron_result](img/enron-result.png)  
+
+#### Matriz de Confusão
+![enron_matrix](img/enron-matrix.png)  
+
+#### Falsos Positivos e Negativos
+![enron_fpfn](img/enron-fpfn.png)  
+
