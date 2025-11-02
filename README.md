@@ -191,6 +191,17 @@ Foram comparados 12 algoritmos, incluindo:
 - Random Forest (RF)
 - Extreme Gradient Boost (XGBoost)
 
+### System Prompt
+```bash
+SYSTEM_PROMPT = (
+    "You are a binary text classifier for SMS messages. "
+    "Classify each message as exactly one of the following labels:\n"
+    "- ham: legitimate, personal, or non-promotional content\n"
+    "- spam: promotional, fraudulent, or unsolicited content\n\n"
+    "Respond with only the label — 'ham' or 'spam' — without explanation or punctuation."
+)
+```
+
 ### Resultados do Benchmark com Modelos GPT
 
 #### Notebook
