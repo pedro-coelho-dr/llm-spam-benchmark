@@ -1,5 +1,7 @@
 # Benchmark de LLMs para Detecção de Spam em SMS
 
+- [Apresentação PDF](benchmark-llm.pdf)
+
 ## Dataset
 
 O experimento utiliza o conjunto de dados **SMS Spam Collection v.1**, disponível no repositório da UCI Machine Learning Repository:
